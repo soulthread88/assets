@@ -1,0 +1,103 @@
+{
+ "name": "EPIC FURY · platform MP4 pipeline (PC stages)",
+ "nodes": [
+  {
+   "parameters": {
+    "httpMethod": "POST",
+    "path": "ef-platform",
+    "responseMode": "responseNode",
+    "options": {}
+   },
+   "id": "a1",
+   "name": "Webhook",
+   "type": "n8n-nodes-base.webhook",
+   "typeVersion": 2,
+   "position": [
+    0,
+    0
+   ],
+   "webhookId": "ef-platform-webhook"
+  },
+  {
+   "parameters": {
+    "jsCode": "const b = $json.body || {};\nconst ok = ['media','tts','sync'].includes(b.stage) && /^[A-Za-z0-9+\\/=]+$/.test(b.payload || '');\nif (!ok) throw new Error('bad request: stage must be media|tts|sync, payload base64 JSON');\nreturn [{ json: { stage: b.stage, cmd: 'python C:\\\\Users\\\\Public\\\\ef\\\\ef_pc.py ' + b.stage + ' ' + b.payload } }];"
+   },
+   "id": "a2",
+   "name": "Validate stage",
+   "type": "n8n-nodes-base.code",
+   "typeVersion": 2,
+   "position": [
+    220,
+    0
+   ]
+  },
+  {
+   "parameters": {
+    "command": "={{ $json.cmd }}"
+   },
+   "id": "a3",
+   "name": "Run PC stage",
+   "type": "n8n-nodes-base.executeCommand",
+   "typeVersion": 1,
+   "position": [
+    440,
+    0
+   ]
+  },
+  {
+   "parameters": {
+    "respondWith": "json",
+    "responseBody": "={{ { stage: $('Validate stage').item.json.stage, exitCode: $json.exitCode, stdout: $json.stdout, stderr: $json.stderr } }}",
+    "options": {}
+   },
+   "id": "a4",
+   "name": "Respond",
+   "type": "n8n-nodes-base.respondToWebhook",
+   "typeVersion": 1.1,
+   "position": [
+    660,
+    0
+   ]
+  }
+ ],
+ "connections": {
+  "Webhook": {
+   "main": [
+    [
+     {
+      "node": "Validate stage",
+      "type": "main",
+      "index": 0
+     }
+    ]
+   ]
+  },
+  "Validate stage": {
+   "main": [
+    [
+     {
+      "node": "Run PC stage",
+      "type": "main",
+      "index": 0
+     }
+    ]
+   ]
+  },
+  "Run PC stage": {
+   "main": [
+    [
+     {
+      "node": "Respond",
+      "type": "main",
+      "index": 0
+     }
+    ]
+   ]
+  }
+ },
+ "settings": {
+  "executionOrder": "v1"
+ },
+ "active": true,
+ "id": "efPlatformPipe01"
+}
