@@ -92,15 +92,15 @@ def render(ep, budget=110):
     print("ALLDONE" if not pending(ep) else "BATCHDONE")
 
 def git_push(repo, paths, msg):
-    os.chdir(repo); sh("git", "pull", "-q", "--rebase")
-    sh("git", "add", "--sparse", *paths)
+    os.chdir(repo); sh("git", "add", "--sparse", *paths)
     if subprocess.run(["git", "diff", "--cached", "--quiet"]).returncode:
-        sh("git", *GIT, "commit", "-qm", msg + TRAILER); sh("git", "push", "-q")
+        sh("git", *GIT, "commit", "-qm", msg + TRAILER)
+    sh("git", "pull", "-q", "--rebase", "--autostash"); sh("git", "push", "-q")
     return out("git", "log", "-1", "--format=%H").strip()
 
 def upload(ep, langs):
     E, W, M = dirs(ep)
-    os.chdir("/home/claude/videos"); sh("git", "pull", "-q", "--rebase")
+    os.chdir("/home/claude/videos"); sh("git", "pull", "-q", "--rebase", "--autostash")
     for L in langs:
         D = f"novel/ep{E}/platform_{L}"; os.makedirs(D, exist_ok=True)
         for f in glob.glob(f"{W}/out/{L}/*.mp4"):
@@ -110,12 +110,12 @@ def upload(ep, langs):
             if os.path.getsize(f) > 95_000_000: sh("git", "lfs", "track", f"{D}/{b}", stdout=subprocess.DEVNULL)
     sha = git_push("/home/claude/videos", [".gitattributes", f"novel/ep{E}"], f"EP{E} platform MP4s ({' '.join(langs)})")
     subprocess.run(["git", "lfs", "prune", "-f"], stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
-    os.chdir("/home/claude/assets"); sh("git", "pull", "-q", "--rebase")
+    os.chdir("/home/claude/assets"); sh("git", "pull", "-q", "--rebase", "--autostash")
     for L in langs:
         D = f"novel/ep{E}/platform_{L}"; os.makedirs(D, exist_ok=True)
         for f in glob.glob(f"{W}/out/{L}/*.srt"): shutil.copy(f, D)
     git_push("/home/claude/assets", [f"novel/ep{E}"], f"EP{E} platform subtitles ({' '.join(langs)})")
-    os.chdir("/home/claude/audio"); sh("git", "pull", "-q", "--rebase")
+    os.chdir("/home/claude/audio"); sh("git", "pull", "-q", "--rebase", "--autostash")
     for L in langs:
         D = f"novel/ep{E}/{L}_v2"; os.makedirs(D, exist_ok=True)
         for f in glob.glob(f"{W}/audio/{L}/*"): shutil.copy(f, D)
@@ -124,11 +124,11 @@ def upload(ep, langs):
 
 def manifest(ep):
     E, W, M = dirs(ep); os.chdir("/home/claude/videos"); sha = out("git", "log", "-1", "--format=%H").strip()
-    lfs = out("git", "lfs", "ls-files", "-n").split(); files = []
+    files = []
     for p in sorted(glob.glob(f"novel/ep{E}/platform_*/*.mp4")):
-        base = "https://media.githubusercontent.com/media" if p in lfs else "https://raw.githubusercontent.com"
+        base = "https://media.githubusercontent.com/media" if out("git", "check-attr", "filter", "--", p).strip().endswith("lfs") else "https://raw.githubusercontent.com"
         files.append(dict(url=f"{base}/soulthread88/videos/{sha}/{p}", name=os.path.basename(p), sub=p.split("/")[2], md5=hashlib.md5(open(p, "rb").read()).hexdigest()))
-    os.chdir("/home/claude/assets"); sh("git", "pull", "-q", "--rebase"); os.makedirs(f"novel/ep{E}", exist_ok=True)
+    os.chdir("/home/claude/assets"); sh("git", "pull", "-q", "--rebase", "--autostash"); os.makedirs(f"novel/ep{E}", exist_ok=True)
     json.dump(dict(ep=E, videos_commit=sha, files=files), open(f"novel/ep{E}/sync_manifest.json", "w"), indent=1)
     a = git_push("/home/claude/assets", [f"novel/ep{E}/sync_manifest.json"], f"EP{E} sync manifest ({len(files)} MP4s)")
     print(f"https://raw.githubusercontent.com/soulthread88/assets/{a}/novel/ep{E}/sync_manifest.json")
