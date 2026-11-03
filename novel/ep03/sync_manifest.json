@@ -1,0 +1,60 @@
+{
+ "ep": "03",
+ "videos_commit": "fcaf05c2ba447fda468a9a92c0d19bb3f3f64ee8",
+ "files": [
+  {
+   "url": "https://raw.githubusercontent.com/soulthread88/videos/fcaf05c2ba447fda468a9a92c0d19bb3f3f64ee8/novel/ep03/platform_en/epic_fury_ep03_facebook_en.mp4",
+   "name": "epic_fury_ep03_facebook_en.mp4",
+   "sub": "platform_en",
+   "md5": "53845d866e1c475408b7aef8be8c0f08"
+  },
+  {
+   "url": "https://raw.githubusercontent.com/soulthread88/videos/fcaf05c2ba447fda468a9a92c0d19bb3f3f64ee8/novel/ep03/platform_en/epic_fury_ep03_feeds_en.mp4",
+   "name": "epic_fury_ep03_feeds_en.mp4",
+   "sub": "platform_en",
+   "md5": "62b9154881681a586316c6099ef6ff22"
+  },
+  {
+   "url": "https://media.githubusercontent.com/media/soulthread88/videos/fcaf05c2ba447fda468a9a92c0d19bb3f3f64ee8/novel/ep03/platform_en/epic_fury_ep03_longform_en.mp4",
+   "name": "epic_fury_ep03_longform_en.mp4",
+   "sub": "platform_en",
+   "md5": "203c42e4606032d2225797e482ecd46d"
+  },
+  {
+   "url": "https://media.githubusercontent.com/media/soulthread88/videos/fcaf05c2ba447fda468a9a92c0d19bb3f3f64ee8/novel/ep03/platform_en/epic_fury_ep03_longform_mobile_en.mp4",
+   "name": "epic_fury_ep03_longform_mobile_en.mp4",
+   "sub": "platform_en",
+   "md5": "76da9318e8fd57acc8749e26d5c6a758"
+  },
+  {
+   "url": "https://raw.githubusercontent.com/soulthread88/videos/fcaf05c2ba447fda468a9a92c0d19bb3f3f64ee8/novel/ep03/platform_en/epic_fury_ep03_reels_en.mp4",
+   "name": "epic_fury_ep03_reels_en.mp4",
+   "sub": "platform_en",
+   "md5": "da50be56bc6e453c1e730c2e44e612f7"
+  },
+  {
+   "url": "https://raw.githubusercontent.com/soulthread88/videos/fcaf05c2ba447fda468a9a92c0d19bb3f3f64ee8/novel/ep03/platform_en/epic_fury_ep03_shorts_en.mp4",
+   "name": "epic_fury_ep03_shorts_en.mp4",
+   "sub": "platform_en",
+   "md5": "2f5a9faddad4896afad0d2c82e64c982"
+  },
+  {
+   "url": "https://raw.githubusercontent.com/soulthread88/videos/fcaf05c2ba447fda468a9a92c0d19bb3f3f64ee8/novel/ep03/platform_en/epic_fury_ep03_threads_en.mp4",
+   "name": "epic_fury_ep03_threads_en.mp4",
+   "sub": "platform_en",
+   "md5": "bbf0c2d9ff5841254729807b1ee4560b"
+  },
+  {
+   "url": "https://media.githubusercontent.com/media/soulthread88/videos/fcaf05c2ba447fda468a9a92c0d19bb3f3f64ee8/novel/ep03/platform_en/epic_fury_ep03_tiktok_en.mp4",
+   "name": "epic_fury_ep03_tiktok_en.mp4",
+   "sub": "platform_en",
+   "md5": "6fb67b588d63c1ad0a345a2bf08fdc64"
+  },
+  {
+   "url": "https://raw.githubusercontent.com/soulthread88/videos/fcaf05c2ba447fda468a9a92c0d19bb3f3f64ee8/novel/ep03/platform_en/epic_fury_ep03_x_en.mp4",
+   "name": "epic_fury_ep03_x_en.mp4",
+   "sub": "platform_en",
+   "md5": "918e033449d9b7260a090fda1728963c"
+  }
+ ]
+}
