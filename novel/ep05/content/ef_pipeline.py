@@ -75,6 +75,7 @@ def pending(ep):
 
 def est_min(ep, L, p):  # ~4.6 min of render per minute of 4K video on 2 cores
     E, W, M = dirs(ep); d = json.load(open(f"{W}/audio/{L}/durations.json"))
+    if p == "longform_mobile": return 10  # 16:9 longform scaled to 1920x1080 (mobile16x9.py), not rendered
     K = importlib.import_module(f"content_ep{E}_{L}") if W in sys.path else (sys.path.insert(0, W), importlib.import_module(f"content_ep{E}_{L}"))[1]
     sec = sum(d[f"p{n:02d}"]["dur"] + 1.7 for n in K.PLATFORMS[p][2]) + d[f"cover_{p}"]["dur"] + d["end"]["dur"] + 3
     return sec / 60 * 5.6
@@ -85,7 +86,10 @@ def render(ep, budget=110):
         need = est_min(ep, L, p); used = (time.time() - t0) / 60
         if used + need > budget: print(f"STOP budget: next {L} {p} needs ~{need:.0f} min, used {used:.0f}"); return
         print(f"START {L} {p} (~{need:.0f} min) {time.strftime('%T')}", flush=True)
-        r = subprocess.run(["python3", f"{KIT}/render/render_v3_{L}.py", p], env=env(ep, L), stdout=open(f"{W}/log_{L}.txt", "a"), stderr=subprocess.STDOUT)
+        if p == "longform_mobile":  # since 2026-11-04: original 16:9 longform format, scaled for phones
+            r = subprocess.run(["python3", f"{ROOT}/pipeline/mobile16x9.py", "make", E, L], stdout=open(f"{W}/log_{L}.txt", "a"), stderr=subprocess.STDOUT)
+        else:
+            r = subprocess.run(["python3", f"{KIT}/render/render_v3_{L}.py", p], env=env(ep, L), stdout=open(f"{W}/log_{L}.txt", "a"), stderr=subprocess.STDOUT)
         (r.returncode == 0) and shutil.rmtree(f"{W}/tmp/{L}/{p}", ignore_errors=True)
         print(("DONE" if r.returncode == 0 else "FAIL"), L, p, time.strftime("%T"), flush=True)
         if r.returncode: return
