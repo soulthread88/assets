@@ -3,34 +3,16 @@
  "videos_commit": "7d2e6dd17eb88a5ae7f16920d341eaf4e23a87a3",
  "files": [
   {
-   "url": "https://media.githubusercontent.com/media/soulthread88/videos/7d2e6dd17eb88a5ae7f16920d341eaf4e23a87a3/novel/ep03/platform_en/epic_fury_ep03_longform_en.mp4",
-   "name": "epic_fury_ep03_longform_en.mp4",
-   "sub": "platform_en",
-   "md5": "1d63f75cdf28d55404d96c3990993645"
-  },
-  {
    "url": "https://media.githubusercontent.com/media/soulthread88/videos/7d2e6dd17eb88a5ae7f16920d341eaf4e23a87a3/novel/ep03/platform_en/epic_fury_ep03_longform_mobile_en.mp4",
    "name": "epic_fury_ep03_longform_mobile_en.mp4",
    "sub": "platform_en",
    "md5": "95c0434a625c628ea11693d7b414a032"
   },
   {
-   "url": "https://media.githubusercontent.com/media/soulthread88/videos/7d2e6dd17eb88a5ae7f16920d341eaf4e23a87a3/novel/ep03/platform_jp/epic_fury_ep03_longform_jp.mp4",
-   "name": "epic_fury_ep03_longform_jp.mp4",
-   "sub": "platform_jp",
-   "md5": "d930cecd0cb3e4e85d929071550e2d41"
-  },
-  {
    "url": "https://media.githubusercontent.com/media/soulthread88/videos/7d2e6dd17eb88a5ae7f16920d341eaf4e23a87a3/novel/ep03/platform_jp/epic_fury_ep03_longform_mobile_jp.mp4",
    "name": "epic_fury_ep03_longform_mobile_jp.mp4",
    "sub": "platform_jp",
    "md5": "7173386459466b5bc2b834894d369f6d"
-  },
-  {
-   "url": "https://media.githubusercontent.com/media/soulthread88/videos/7d2e6dd17eb88a5ae7f16920d341eaf4e23a87a3/novel/ep03/platform_ko/epic_fury_ep03_longform_ko.mp4",
-   "name": "epic_fury_ep03_longform_ko.mp4",
-   "sub": "platform_ko",
-   "md5": "49b6edb9aabd47220ca7539e93865e69"
   },
   {
    "url": "https://media.githubusercontent.com/media/soulthread88/videos/7d2e6dd17eb88a5ae7f16920d341eaf4e23a87a3/novel/ep03/platform_ko/epic_fury_ep03_longform_mobile_ko.mp4",
