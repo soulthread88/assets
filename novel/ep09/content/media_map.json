@@ -1,0 +1,41 @@
+{
+ "pages": {
+  "1": "vid9_p01",
+  "2": "vid9_p02",
+  "3": "vid9_p03",
+  "4": "vid9_p04",
+  "5": "vid9_p05",
+  "6": "vid9_p06",
+  "7": "vid9_p07",
+  "8": "vid9_p08",
+  "9": "vid9_p09",
+  "10": "vid9_p10",
+  "11": "vid9_p11",
+  "12": "vid9_p12",
+  "13": "vid9_p13",
+  "14": "vid9_p14",
+  "15": "vid9_p15",
+  "16": "vid9_p16",
+  "17": "vid9_p17",
+  "18": "vid9_p18",
+  "19": "vid9_p19",
+  "20": "vid9_p20",
+  "21": "vid9_p21",
+  "22": "vid9_p22",
+  "23": "vid9_p23",
+  "24": "vid9_p24",
+  "25": "vid9_p25",
+  "26": "vid9_p26"
+ },
+ "covers": {
+  "longform": "vid9_c_longform",
+  "shorts": "vid9_c_shorts",
+  "tiktok": "vid9_c_tiktok",
+  "reels": "vid9_c_reels",
+  "threads": "vid9_c_threads",
+  "x": "vid9_c_x",
+  "facebook": "vid9_c_facebook",
+  "feeds": "vid9_c_feeds"
+ },
+ "end": "vid9_end"
+}
