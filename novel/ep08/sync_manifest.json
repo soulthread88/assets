@@ -1,0 +1,107 @@
+{
+ "ep": "08",
+ "files": [
+  {
+   "url": "https://raw.githubusercontent.com/soulthread88/videos/2b670de33ea00fd58d455b0bc15886a3acc3fd34/novel/ep08/platform_ko/epic_fury_ep08_feeds_ko.mp4",
+   "name": "epic_fury_ep08_feeds_ko.mp4",
+   "sub": "platform_ko",
+   "md5": "13200a5b77345de5c58d55789daddde4"
+  },
+  {
+   "url": "https://media.githubusercontent.com/media/soulthread88/videos/2b670de33ea00fd58d455b0bc15886a3acc3fd34/novel/ep08/platform_ko/epic_fury_ep08_longform_ko.mp4",
+   "name": "epic_fury_ep08_longform_ko.mp4",
+   "sub": "platform_ko",
+   "md5": "aa20380835d05a5e7fab6955cd753378"
+  },
+  {
+   "url": "https://raw.githubusercontent.com/soulthread88/videos/2b670de33ea00fd58d455b0bc15886a3acc3fd34/novel/ep08/platform_ko/epic_fury_ep08_shorts_ko.mp4",
+   "name": "epic_fury_ep08_shorts_ko.mp4",
+   "sub": "platform_ko",
+   "md5": "579ab2cfa71a6296e17f5ff6c45af992"
+  },
+  {
+   "url": "https://raw.githubusercontent.com/soulthread88/assets/50d07f512633c0ebb63fb6aa412174d852ad4800/novel/ep08/platform_ko/epic_fury_ep08_feeds_ko.srt",
+   "name": "epic_fury_ep08_feeds_ko.srt",
+   "sub": "platform_ko",
+   "md5": "6dd6ef8bf4cadd7bc6e40d09c25752a6"
+  },
+  {
+   "url": "https://raw.githubusercontent.com/soulthread88/assets/50d07f512633c0ebb63fb6aa412174d852ad4800/novel/ep08/platform_ko/epic_fury_ep08_longform_ko.srt",
+   "name": "epic_fury_ep08_longform_ko.srt",
+   "sub": "platform_ko",
+   "md5": "5e88b267aafdc8f345fe61cad291a4c9"
+  },
+  {
+   "url": "https://raw.githubusercontent.com/soulthread88/assets/50d07f512633c0ebb63fb6aa412174d852ad4800/novel/ep08/platform_ko/epic_fury_ep08_script_ko.txt",
+   "name": "epic_fury_ep08_script_ko.txt",
+   "sub": "platform_ko",
+   "md5": "162d32a3f98769b21e8278c7363d8ea9"
+  },
+  {
+   "url": "https://raw.githubusercontent.com/soulthread88/assets/50d07f512633c0ebb63fb6aa412174d852ad4800/novel/ep08/platform_ko/epic_fury_ep08_shorts_ko.srt",
+   "name": "epic_fury_ep08_shorts_ko.srt",
+   "sub": "platform_ko",
+   "md5": "b50503935de5c687f9caf07d5a332d41"
+  },
+  {
+   "url": "https://raw.githubusercontent.com/soulthread88/assets/50d07f512633c0ebb63fb6aa412174d852ad4800/novel/ep08/content/EP08_%EB%AF%B8%EB%94%94%EC%96%B4_%EB%AA%A9%EB%A1%9D.xlsx",
+   "name": "EP08_미디어_목록.xlsx",
+   "sub": "..\\blog_ko",
+   "md5": "17803290def5f6fa7211ef43e80c6a1f"
+  },
+  {
+   "url": "https://raw.githubusercontent.com/soulthread88/htmls/4e8bfc89a903f7d5f9b07af4a3a53fa40600ee06/novel/blog/ep08/epic_fury_ep08_blog_meta.json",
+   "name": "epic_fury_ep08_blog_meta.json",
+   "sub": "..\\blog_ko",
+   "md5": "88eec5ead6b7ed45c4e617e7cc41cae6"
+  },
+  {
+   "url": "https://raw.githubusercontent.com/soulthread88/htmls/4e8bfc89a903f7d5f9b07af4a3a53fa40600ee06/novel/blog/ep08/epic_fury_ep08_blog_naver.html",
+   "name": "epic_fury_ep08_blog_naver.html",
+   "sub": "..\\blog_ko",
+   "md5": "a8db82bc1515ba2b64e668e8124b8c5b"
+  },
+  {
+   "url": "https://raw.githubusercontent.com/soulthread88/htmls/4e8bfc89a903f7d5f9b07af4a3a53fa40600ee06/novel/blog/ep08/epic_fury_ep08_blog_naver_body.html",
+   "name": "epic_fury_ep08_blog_naver_body.html",
+   "sub": "..\\blog_ko",
+   "md5": "9f47d0a7d06018177cdfa8bf7f4a83b0"
+  },
+  {
+   "url": "https://raw.githubusercontent.com/soulthread88/htmls/4e8bfc89a903f7d5f9b07af4a3a53fa40600ee06/novel/blog/ep08/epic_fury_ep08_blog_substack.html",
+   "name": "epic_fury_ep08_blog_substack.html",
+   "sub": "..\\blog_ko",
+   "md5": "81be4040ca5077b5f523c3287f515b49"
+  },
+  {
+   "url": "https://raw.githubusercontent.com/soulthread88/htmls/4e8bfc89a903f7d5f9b07af4a3a53fa40600ee06/novel/blog/ep08/epic_fury_ep08_blog_substack_body.html",
+   "name": "epic_fury_ep08_blog_substack_body.html",
+   "sub": "..\\blog_ko",
+   "md5": "bff4d6a0dabe6cba606664ecf62103de"
+  },
+  {
+   "url": "https://raw.githubusercontent.com/soulthread88/htmls/4e8bfc89a903f7d5f9b07af4a3a53fa40600ee06/novel/blog/ep08/epic_fury_ep08_blog_tistory.html",
+   "name": "epic_fury_ep08_blog_tistory.html",
+   "sub": "..\\blog_ko",
+   "md5": "0ef858c1aadc73ab50e1ff549eda30bb"
+  },
+  {
+   "url": "https://raw.githubusercontent.com/soulthread88/htmls/4e8bfc89a903f7d5f9b07af4a3a53fa40600ee06/novel/blog/ep08/epic_fury_ep08_blog_tistory_body.html",
+   "name": "epic_fury_ep08_blog_tistory_body.html",
+   "sub": "..\\blog_ko",
+   "md5": "7af1a8208ef5f8c88cdfbfe0c35ec630"
+  },
+  {
+   "url": "https://raw.githubusercontent.com/soulthread88/htmls/4e8bfc89a903f7d5f9b07af4a3a53fa40600ee06/novel/blog/ep08/epic_fury_ep08_blog_wordpress.html",
+   "name": "epic_fury_ep08_blog_wordpress.html",
+   "sub": "..\\blog_ko",
+   "md5": "c3d82e824acc1163cbbceac6dddb830c"
+  },
+  {
+   "url": "https://raw.githubusercontent.com/soulthread88/htmls/4e8bfc89a903f7d5f9b07af4a3a53fa40600ee06/novel/blog/ep08/epic_fury_ep08_blog_wordpress_body.html",
+   "name": "epic_fury_ep08_blog_wordpress_body.html",
+   "sub": "..\\blog_ko",
+   "md5": "432b441c14930271d66b196a99cff680"
+  }
+ ]
+}
