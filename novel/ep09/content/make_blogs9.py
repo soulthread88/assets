@@ -170,7 +170,7 @@ def build(L, mode):
     for k in ["vid9_c_longform", "vid9_p03"] + [img_key(n) for n in SCENE_PAGE]:
         if k in seen: continue
         seen.append(k); m = MAN[k]; items.append((f"{m['title']} — {credit(k, t)}", m["page"]))
-    H.append("<ol>" + "".join(f'<li>{E(a)}<br><a href="{E(u)}">{E(u)}</a></li>' for a, u in items) + "</ol>")
+    H.append("<ol>" + "".join(f'<li>{E(a)}<br><a href="{E(u)}" style="word-break:break-all;overflow-wrap:anywhere">{E(u)}</a></li>' for a, u in items) + "</ol>")
     H.append(f'<div class="disc"{st("font-size:15px;color:#555;background:#f6f3ec;padding:14px 18px;border-radius:8px;margin:24px 0")}>{E(t["disc"])}</div>' if mode != "substack" else f"<p><em>{E(t['disc'])}</em></p>")
     if mode in ("naver", "tistory"): H.append(f'<p{st("color:#555;font-size:16px")}>' + " ".join("#" + x for x in t["tags"]) + "</p>")
     body = "\n".join(H)
