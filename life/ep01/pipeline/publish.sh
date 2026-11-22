@@ -23,6 +23,8 @@ cp ep01/$L/blogs.py $GH/assets/$EP/$L/blogs-$L.py
 cp build/stock/manifest.json $GH/assets/$EP/stock-credits.json
 cp pipeline/*.py pipeline/*.html pipeline/*.sh $GH/assets/$EP/pipeline/ 2>/dev/null || true
 [ -f pipeline/n8n-lifestory-workflow.json ] && cp pipeline/n8n-lifestory-workflow.json $GH/assets/$EP/
+# Shorts/feed MP4s (<100MB) straight into the videos repo; longform goes to YouTube/PC
+mkdir -p $GH/videos/$EP/$L; for f in build/$L/out/*shorts*.mp4 build/$L/out/*feed*.mp4; do [ -s "$f" ] && cp "$f" $GH/videos/$EP/$L/ || true; done
 # b-roll for the web players (each <25MB)
 grep -q "broll done" build/broll.log 2>/dev/null && for f in build/broll/*.mp4; do [ -s "$f" ] && cp -n "$f" $GH/videos/$EP/broll/ || true; done
 for r in htmls imgs audio assets videos; do

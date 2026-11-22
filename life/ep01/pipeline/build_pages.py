@@ -5,7 +5,7 @@ sys.path.insert(0, os.path.dirname(__file__))
 from locale_text import L
 
 RAW = "https://raw.githubusercontent.com/soulthread88/{repo}/main/life/ep01/{path}"
-REL = "https://github.com/soulthread88/videos/releases/download/life-ep01/{name}"
+REL = "https://raw.githubusercontent.com/soulthread88/videos/main/life/ep01/{name}"
 PAGE = {"ko": dict(full="전체 이야기", listen="전체 오디오 듣기", videos="플랫폼별 영상", scene="장면"),
         "en": dict(full="The Full Story", listen="Listen to the full audio drama", videos="Videos by platform", scene="Scene"),
         "jp": dict(full="物語の全文", listen="オーディオドラマを聴く", videos="プラットフォーム別の動画", scene="シーン")}
@@ -32,7 +32,7 @@ HEAD = """<!DOCTYPE html><html lang="{lang}"><head><meta charset="utf-8"><meta n
 
 def media(lang):
     aud = RAW.format(repo="audio", path=f"{lang}/lifestory-ep01-long-{lang}.mp3")
-    v = REL.format(name=f"lifestory-ep01-longform-facebook-x-pc-{lang}.mp4")
+    v = REL.format(name=f"{lang}/lifestory-ep01-threads-instagram-feed-{lang}.mp4")
     thumb = RAW.format(repo="imgs", path=f"thumb/lifestory-ep01-thumb-landscape-{lang}.jpg")
     return aud, v, thumb
 
@@ -61,7 +61,9 @@ def main(lang, outdir):
     page += f'<span class="badge">{t["series"]} EP01</span><h1>{html.escape(t["title_short"])}</h1><figure><img src="{thumb}" alt=""></figure>'
     page += f'<p class="lead">{html.escape(t["desc"])}</p><h2>{P["listen"]}</h2>{audio_tag}<h2>{P["videos"]}</h2><div class="btns">'
     for slug, label in VIDS:
-        page += f'<a href="{REL.format(name=f"lifestory-ep01-{slug}-{lang}.mp4")}">{label}</a>'
+        if slug.startswith("longform"):
+            continue
+        page += f'<a href="{REL.format(name=f"{lang}/lifestory-ep01-{slug}-{lang}.mp4")}">{label}</a>'
     page += f'</div><h2>{P["full"]}</h2>'
     for i, s in enumerate(tl["scenes"]):
         page += f'<section class="scene"><h3>{i+1}. {html.escape(s["title"])}</h3>'
