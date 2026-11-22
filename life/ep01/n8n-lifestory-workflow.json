@@ -1,0 +1,333 @@
+{
+ "name": "Life Story EP01 · multi-platform 4K pipeline",
+ "nodes": [
+  {
+   "parameters": {
+    "content": "## Life Story pipeline\nRuns per language (ko, en, jp): stock media → Typecast TTS → 4K HTML frames → MP4 (thumbnail first) → full-story + blog HTML → push to soulthread88 repos → MP4s to the videos Release.\n\nHost needs: python3, ffmpeg, Chrome, playwright, gh (authenticated), env TYPECAST_API_KEY, PEXELS_API_KEY, PIXABAY_API_KEY. Scripts: assets/life/ep01/pipeline.",
+    "height": 220,
+    "width": 520
+   },
+   "id": "989330cf-5272-4e3e-b0c5-af1b3684ff84",
+   "name": "Read me",
+   "type": "n8n-nodes-base.stickyNote",
+   "typeVersion": 1,
+   "position": [
+    -40,
+    40
+   ]
+  },
+  {
+   "parameters": {},
+   "id": "e8957d67-397d-46d0-9836-e5f0c5a7e3fc",
+   "name": "Start",
+   "type": "n8n-nodes-base.manualTrigger",
+   "typeVersion": 1,
+   "position": [
+    0,
+    300
+   ]
+  },
+  {
+   "parameters": {
+    "mode": "raw",
+    "jsonOutput": "{\"episode\": \"ep01\", \"root\": \"/opt/lifestory\", \"langs\": [\"ko\", \"en\", \"jp\"]}"
+   },
+   "id": "b0ed6a93-e9a0-4c35-8f7d-b03818b82331",
+   "name": "Episode config",
+   "type": "n8n-nodes-base.set",
+   "typeVersion": 3.4,
+   "position": [
+    220,
+    300
+   ]
+  },
+  {
+   "parameters": {
+    "jsCode": "const c=$input.first().json;return c.langs.map(l=>({json:{...c,lang:l}}));"
+   },
+   "id": "be527a13-99c7-42b9-9c81-4cd0c3c8ba57",
+   "name": "One item per language",
+   "type": "n8n-nodes-base.code",
+   "typeVersion": 2,
+   "position": [
+    440,
+    300
+   ]
+  },
+  {
+   "parameters": {
+    "batchSize": 1,
+    "options": {}
+   },
+   "id": "f4d53b4b-b52f-4919-a157-346c8456aeaa",
+   "name": "Loop languages",
+   "type": "n8n-nodes-base.splitInBatches",
+   "typeVersion": 3,
+   "position": [
+    660,
+    300
+   ]
+  },
+  {
+   "parameters": {
+    "command": "cd {{$json.root}} && python3 pipeline/stock.py build/stock"
+   },
+   "id": "38e79aa0-ca72-4f31-9914-f0f6115097e4",
+   "name": "Stock media (Pexels/Pixabay)",
+   "type": "n8n-nodes-base.executeCommand",
+   "typeVersion": 1,
+   "position": [
+    880,
+    300
+   ]
+  },
+  {
+   "parameters": {
+    "command": "cd {{$('Loop languages').item.json.root}} && L={{$('Loop languages').item.json.lang}} && for k in shorts feed; do python3 pipeline/tts.py ep01/$L/$k.txt build/$L/$k $L; done"
+   },
+   "id": "b573a3d2-e7f2-4206-bdbd-67ba1050e24d",
+   "name": "TTS shorts+feed (Typecast)",
+   "type": "n8n-nodes-base.executeCommand",
+   "typeVersion": 1,
+   "position": [
+    1100,
+    300
+   ]
+  },
+  {
+   "parameters": {
+    "command": "cd {{$('Loop languages').item.json.root}} && L={{$('Loop languages').item.json.lang}} && TEMPO=0.95 python3 pipeline/tts.py ep01/$L/long.txt build/$L/long $L"
+   },
+   "id": "eaa55752-9f51-4576-bb93-f3f40ffa98ae",
+   "name": "TTS longform (Typecast, 0.95x)",
+   "type": "n8n-nodes-base.executeCommand",
+   "typeVersion": 1,
+   "position": [
+    1320,
+    300
+   ]
+  },
+  {
+   "parameters": {
+    "command": "cd {{$('Loop languages').item.json.root}} && L={{$('Loop languages').item.json.lang}} && for k in shorts feed long; do python3 pipeline/build_html.py $L $k build/$L/$k/timeline.json build/$L/render render; done"
+   },
+   "id": "d0f50cb5-6e5d-4623-aafd-d5f334ae4be9",
+   "name": "Build platform HTML (render)",
+   "type": "n8n-nodes-base.executeCommand",
+   "typeVersion": 1,
+   "position": [
+    1540,
+    300
+   ]
+  },
+  {
+   "parameters": {
+    "command": "cd {{$('Loop languages').item.json.root}} && L={{$('Loop languages').item.json.lang}} && for n in shorts-reels-tiktok-mobile:shorts shorts-reels-tiktok-pc:shorts threads-instagram-feed:feed longform-facebook-x-pc:long longform-facebook-x-mobile:long; do p=${n%%:*}; k=${n##*:}; python3 pipeline/render.py build/$L/render/lifestory-ep01-$p-$L.html build/$L/$k/narration.mp3 build/$L/out/lifestory-ep01-$p-$L.mp4; done"
+   },
+   "id": "defd1e71-bf9d-432d-9af5-25b6bf1af37c",
+   "name": "Render 4K MP4s",
+   "type": "n8n-nodes-base.executeCommand",
+   "typeVersion": 1,
+   "position": [
+    1760,
+    300
+   ]
+  },
+  {
+   "parameters": {
+    "command": "cd {{$('Loop languages').item.json.root}} && python3 pipeline/build_pages.py {{$('Loop languages').item.json.lang}} build/{{$('Loop languages').item.json.lang}}/pages"
+   },
+   "id": "a1690965-b5df-4f28-9a6d-37ce3585c317",
+   "name": "Full story + blog HTML",
+   "type": "n8n-nodes-base.executeCommand",
+   "typeVersion": 1,
+   "position": [
+    1980,
+    300
+   ]
+  },
+  {
+   "parameters": {
+    "command": "cd {{$('Loop languages').item.json.root}} && bash pipeline/publish.sh {{$('Loop languages').item.json.lang}}"
+   },
+   "id": "4c4d3644-7403-483d-8729-501159baa963",
+   "name": "Publish to GitHub repos",
+   "type": "n8n-nodes-base.executeCommand",
+   "typeVersion": 1,
+   "position": [
+    2200,
+    300
+   ]
+  },
+  {
+   "parameters": {
+    "command": "cd {{$('Loop languages').item.json.root}} && bash pipeline/release.sh {{$('Loop languages').item.json.lang}}"
+   },
+   "id": "f63f4a10-2740-4927-baa3-2bca1a9b69f1",
+   "name": "Upload MP4s to Release",
+   "type": "n8n-nodes-base.executeCommand",
+   "typeVersion": 1,
+   "position": [
+    2420,
+    300
+   ]
+  },
+  {
+   "parameters": {},
+   "id": "db1758b0-89a1-49b3-870f-7926efd59ddf",
+   "name": "Done",
+   "type": "n8n-nodes-base.noOp",
+   "typeVersion": 1,
+   "position": [
+    880,
+    520
+   ]
+  }
+ ],
+ "connections": {
+  "Start": {
+   "main": [
+    [
+     {
+      "node": "Episode config",
+      "type": "main",
+      "index": 0
+     }
+    ]
+   ]
+  },
+  "Episode config": {
+   "main": [
+    [
+     {
+      "node": "One item per language",
+      "type": "main",
+      "index": 0
+     }
+    ]
+   ]
+  },
+  "One item per language": {
+   "main": [
+    [
+     {
+      "node": "Loop languages",
+      "type": "main",
+      "index": 0
+     }
+    ]
+   ]
+  },
+  "Loop languages": {
+   "main": [
+    [
+     {
+      "node": "Done",
+      "type": "main",
+      "index": 0
+     }
+    ],
+    [
+     {
+      "node": "Stock media (Pexels/Pixabay)",
+      "type": "main",
+      "index": 0
+     }
+    ]
+   ]
+  },
+  "Stock media (Pexels/Pixabay)": {
+   "main": [
+    [
+     {
+      "node": "TTS shorts+feed (Typecast)",
+      "type": "main",
+      "index": 0
+     }
+    ]
+   ]
+  },
+  "TTS shorts+feed (Typecast)": {
+   "main": [
+    [
+     {
+      "node": "TTS longform (Typecast, 0.95x)",
+      "type": "main",
+      "index": 0
+     }
+    ]
+   ]
+  },
+  "TTS longform (Typecast, 0.95x)": {
+   "main": [
+    [
+     {
+      "node": "Build platform HTML (render)",
+      "type": "main",
+      "index": 0
+     }
+    ]
+   ]
+  },
+  "Build platform HTML (render)": {
+   "main": [
+    [
+     {
+      "node": "Render 4K MP4s",
+      "type": "main",
+      "index": 0
+     }
+    ]
+   ]
+  },
+  "Render 4K MP4s": {
+   "main": [
+    [
+     {
+      "node": "Full story + blog HTML",
+      "type": "main",
+      "index": 0
+     }
+    ]
+   ]
+  },
+  "Full story + blog HTML": {
+   "main": [
+    [
+     {
+      "node": "Publish to GitHub repos",
+      "type": "main",
+      "index": 0
+     }
+    ]
+   ]
+  },
+  "Publish to GitHub repos": {
+   "main": [
+    [
+     {
+      "node": "Upload MP4s to Release",
+      "type": "main",
+      "index": 0
+     }
+    ]
+   ]
+  },
+  "Upload MP4s to Release": {
+   "main": [
+    [
+     {
+      "node": "Loop languages",
+      "type": "main",
+      "index": 0
+     }
+    ]
+   ]
+  }
+ },
+ "settings": {
+  "executionOrder": "v1",
+  "executionTimeout": -1
+ },
+ "pinData": {}
+}

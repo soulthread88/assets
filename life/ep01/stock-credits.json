@@ -1,0 +1,546 @@
+{
+ "wedding_ring_landscape.jpg": {
+  "source": "Pexels",
+  "url": "https://www.pexels.com/photo/close-up-shot-of-diamond-rings-5370658/",
+  "author": "The Glorious  Studio",
+  "license": "Pexels License (free to use)",
+  "w": 6872,
+  "h": 4574
+ },
+ "wedding_ring_portrait.jpg": {
+  "source": "Pexels",
+  "url": "https://www.pexels.com/photo/close-up-photo-of-ring-2849742/",
+  "author": "Danielle De Angelis",
+  "license": "Pexels License (free to use)",
+  "w": 4016,
+  "h": 6016
+ },
+ "sunrise_city_landscape.jpg": {
+  "source": "Pexels",
+  "url": "https://www.pexels.com/photo/a-city-during-sunset-12413177/",
+  "author": "Fatih Turan",
+  "license": "Pexels License (free to use)",
+  "w": 8640,
+  "h": 5760
+ },
+ "sunrise_city_portrait.jpg": {
+  "source": "Pexels",
+  "url": "https://www.pexels.com/photo/golden-sunrise-over-urban-skyline-with-mountain-35957531/",
+  "author": "Xiang Qi",
+  "license": "Pexels License (free to use)",
+  "w": 5304,
+  "h": 6410
+ },
+ "rain_window_landscape.jpg": {
+  "source": "Pexels",
+  "url": "https://www.pexels.com/photo/close-up-photography-of-droplets-on-glass-1413100/",
+  "author": "Kristya Nugraha",
+  "license": "Pexels License (free to use)",
+  "w": 6016,
+  "h": 4016
+ },
+ "rain_window_portrait.jpg": {
+  "source": "Pexels",
+  "url": "https://www.pexels.com/photo/water-droplets-on-glass-window-13214131/",
+  "author": "Diana ✨",
+  "license": "Pexels License (free to use)",
+  "w": 4000,
+  "h": 6000
+ },
+ "morning_light_landscape.jpg": {
+  "source": "Pexels",
+  "url": "https://www.pexels.com/photo/smiling-woman-standing-with-hot-drink-21366958/",
+  "author": "Letícia Alvares",
+  "license": "Pexels License (free to use)",
+  "w": 6000,
+  "h": 4000
+ },
+ "morning_light_portrait.jpg": {
+  "source": "Pexels",
+  "url": "https://www.pexels.com/photo/pregnant-woman-relaxing-in-sunlit-kitchen-37185819/",
+  "author": "Alexander Mass",
+  "license": "Pexels License (free to use)",
+  "w": 4000,
+  "h": 6000
+ },
+ "notebook_desk_landscape.jpg": {
+  "source": "Pexels",
+  "url": "https://www.pexels.com/photo/color-markers-on-white-surface-near-book-1424543/",
+  "author": "Diana ✨",
+  "license": "Pexels License (free to use)",
+  "w": 6016,
+  "h": 4016
+ },
+ "notebook_desk_portrait.jpg": {
+  "source": "Pexels",
+  "url": "https://www.pexels.com/photo/a-notebook-and-pen-on-the-table-8092415/",
+  "author": "kaboompics",
+  "license": "Pexels License (free to use)",
+  "w": 4480,
+  "h": 6720
+ },
+ "korean_restaurant_landscape.jpg": {
+  "source": "Pexels",
+  "url": "https://www.pexels.com/photo/a-set-of-samgyeopsal-8288043/",
+  "author": "FOX ^.ᆽ.^= ∫",
+  "license": "Pexels License (free to use)",
+  "w": 6000,
+  "h": 4000
+ },
+ "korean_restaurant_portrait.jpg": {
+  "source": "Pexels",
+  "url": "https://www.pexels.com/photo/table-setting-for-korean-first-birthday-23355702/",
+  "author": "Brian Phetmeuangmay",
+  "license": "Pexels License (free to use)",
+  "w": 4160,
+  "h": 6240
+ },
+ "paper_document_landscape.jpg": {
+  "source": "Pexels",
+  "url": "https://www.pexels.com/photo/receipts-and-documents-on-top-of-a-desk-7680681/",
+  "author": "kaboompics",
+  "license": "Pexels License (free to use)",
+  "w": 6720,
+  "h": 4480
+ },
+ "paper_document_portrait.jpg": {
+  "source": "Pexels",
+  "url": "https://www.pexels.com/photo/calculator-and-tax-documents-6863334/",
+  "author": "Nataliya Vaitkevich",
+  "license": "Pexels License (free to use)",
+  "w": 4160,
+  "h": 6240
+ },
+ "dark_window_light_landscape.jpg": {
+  "source": "Pexels",
+  "url": "https://www.pexels.com/photo/nature-s-view-from-the-window-6933080/",
+  "author": "Mikhail Nilov",
+  "license": "Pexels License (free to use)",
+  "w": 7952,
+  "h": 5304
+ },
+ "dark_window_light_portrait.jpg": {
+  "source": "Pexels",
+  "url": "https://www.pexels.com/photo/sunlight-filtering-through-sheer-curtains-in-a-cozy-room-37448677/",
+  "author": "Kamil Jasiński",
+  "license": "Pexels License (free to use)",
+  "w": 5152,
+  "h": 7728
+ },
+ "night_street_landscape.jpg": {
+  "source": "Pexels",
+  "url": "https://www.pexels.com/photo/sunset-at-a-street-in-moscow-11931265/",
+  "author": "Artyom Malyukov",
+  "license": "Pexels License (free to use)",
+  "w": 6240,
+  "h": 4160
+ },
+ "night_street_portrait.jpg": {
+  "source": "Pexels",
+  "url": "https://www.pexels.com/photo/people-walking-on-the-street-near-concrete-building-11748316/",
+  "author": "Erik Schereder",
+  "license": "Pexels License (free to use)",
+  "w": 4000,
+  "h": 6000
+ },
+ "bakery_morning_landscape.jpg": {
+  "source": "Pexels",
+  "url": "https://www.pexels.com/photo/bakery-storefront-with-traditional-bread-in-window-31157485/",
+  "author": "Onur",
+  "license": "Pexels License (free to use)",
+  "w": 6240,
+  "h": 4160
+ },
+ "bakery_morning_portrait.jpg": {
+  "source": "Pexels",
+  "url": "https://www.pexels.com/photo/back-view-of-a-man-picking-bread-5461636/",
+  "author": "Amelia Hallsworth",
+  "license": "Pexels License (free to use)",
+  "w": 4000,
+  "h": 6000
+ },
+ "city_cafe_landscape.jpg": {
+  "source": "Pexels",
+  "url": "https://www.pexels.com/photo/bright-modern-cafe-interior-with-artistic-decor-31088701/",
+  "author": "Ricky Esquivel",
+  "license": "Pexels License (free to use)",
+  "w": 7384,
+  "h": 4923
+ },
+ "city_cafe_portrait.jpg": {
+  "source": "Pexels",
+  "url": "https://www.pexels.com/photo/furniture-on-an-exhibition-in-a-shop-17779233/",
+  "author": "Efnan Yılmaz",
+  "license": "Pexels License (free to use)",
+  "w": 4160,
+  "h": 6240
+ },
+ "wood_workshop_landscape.jpg": {
+  "source": "Pexels",
+  "url": "https://www.pexels.com/photo/a-person-in-white-long-sleeve-shirt-scraping-wood-plank-13005858/",
+  "author": "Brian Magill",
+  "license": "Pexels License (free to use)",
+  "w": 6000,
+  "h": 4000
+ },
+ "wood_workshop_portrait.jpg": {
+  "source": "Pexels",
+  "url": "https://www.pexels.com/photo/a-person-doing-carpentry-6790088/",
+  "author": "Tima Miroshnichenko",
+  "license": "Pexels License (free to use)",
+  "w": 4000,
+  "h": 6000
+ },
+ "rain_street_landscape.jpg": {
+  "source": "Pexels",
+  "url": "https://www.pexels.com/photo/a-man-riding-a-bike-on-a-wet-road-5166265/",
+  "author": "zhang kaiyv",
+  "license": "Pexels License (free to use)",
+  "w": 8794,
+  "h": 5863
+ },
+ "rain_street_portrait.jpg": {
+  "source": "Pexels",
+  "url": "https://www.pexels.com/photo/a-couple-close-together-while-holding-clear-umbrellas-9755901/",
+  "author": "Ahmed ؜",
+  "license": "Pexels License (free to use)",
+  "w": 4096,
+  "h": 6144
+ },
+ "office_document_landscape.jpg": {
+  "source": "Pexels",
+  "url": "https://www.pexels.com/photo/white-paper-and-silver-fountain-pen-955394/",
+  "author": "Cytonn Photography",
+  "license": "Pexels License (free to use)",
+  "w": 6016,
+  "h": 4016
+ },
+ "office_document_portrait.jpg": {
+  "source": "Pexels",
+  "url": "https://www.pexels.com/photo/person-signing-a-contract-5387261/",
+  "author": "kaboompics",
+  "license": "Pexels License (free to use)",
+  "w": 4480,
+  "h": 6720
+ },
+ "night_city_lights_landscape.jpg": {
+  "source": "Pexels",
+  "url": "https://www.pexels.com/photo/saint-paul-skyline-overlooking-lush-greenery-38226311/",
+  "author": "Thomas Parker",
+  "license": "Pexels License (free to use)",
+  "w": 6000,
+  "h": 4000
+ },
+ "night_city_lights_portrait.jpg": {
+  "source": "Pexels",
+  "url": "https://www.pexels.com/photo/skyscraper-against-a-clear-sky-at-sunrise-39876969/",
+  "author": "Brian Phetmeuangmay",
+  "license": "Pexels License (free to use)",
+  "w": 4160,
+  "h": 6240
+ },
+ "morning_window_landscape.jpg": {
+  "source": "Pexels",
+  "url": "https://www.pexels.com/photo/sunlight-filtering-through-window-blinds-indoors-36197104/",
+  "author": "Alec Adriano",
+  "license": "Pexels License (free to use)",
+  "w": 7728,
+  "h": 4347
+ },
+ "morning_window_portrait.jpg": {
+  "source": "Pexels",
+  "url": "https://www.pexels.com/photo/sunlit-window-casting-shadows-on-wall-34684072/",
+  "author": "zeynepshoots",
+  "license": "Pexels License (free to use)",
+  "w": 4000,
+  "h": 6000
+ },
+ "family_dining_landscape.jpg": {
+  "source": "Pexels",
+  "url": "https://www.pexels.com/photo/table-in-restaurant-17057034/",
+  "author": "Matheus Bertelli",
+  "license": "Pexels License (free to use)",
+  "w": 6720,
+  "h": 4480
+ },
+ "family_dining_portrait.jpg": {
+  "source": "Pexels",
+  "url": "https://www.pexels.com/photo/crystal-vase-with-leaves-on-a-table-in-restaurant-17057009/",
+  "author": "Matheus Bertelli",
+  "license": "Pexels License (free to use)",
+  "w": 4480,
+  "h": 6720
+ },
+ "bright_living_room_landscape.jpg": {
+  "source": "Pexels",
+  "url": "https://www.pexels.com/photo/interior-of-empty-dining-zone-with-chairs-at-table-7061334/",
+  "author": "Max Vakhtbovych",
+  "license": "Pexels License (free to use)",
+  "w": 7360,
+  "h": 4912
+ },
+ "bright_living_room_portrait.jpg": {
+  "source": "Pexels",
+  "url": "https://www.pexels.com/photo/three-assorted-throw-pillows-on-couch-1362385/",
+  "author": "Lisa Fotios",
+  "license": "Pexels License (free to use)",
+  "w": 4000,
+  "h": 6000
+ },
+ "sunlight_hall_landscape.jpg": {
+  "source": "Pexels",
+  "url": "https://www.pexels.com/photo/blue-chairs-in-the-lobby-10890566/",
+  "author": "The 7 Hotel Lisbon",
+  "license": "Pexels License (free to use)",
+  "w": 6493,
+  "h": 4329
+ },
+ "sunlight_hall_portrait.jpg": {
+  "source": "Pexels",
+  "url": "https://www.pexels.com/photo/luxurious-vintage-hotel-lobby-interior-design-40495422/",
+  "author": "Faheem Ahamad",
+  "license": "Pexels License (free to use)",
+  "w": 5152,
+  "h": 7728
+ },
+ "wedding_garden_landscape.jpg": {
+  "source": "Pexels",
+  "url": "https://www.pexels.com/photo/elegant-outdoor-wedding-ceremony-setup-with-floral-decor-37828118/",
+  "author": "NUDE Nahum",
+  "license": "Pexels License (free to use)",
+  "w": 6720,
+  "h": 4480
+ },
+ "wedding_garden_portrait.jpg": {
+  "source": "Pexels",
+  "url": "https://www.pexels.com/photo/arch-at-wedding-venue-17206092/",
+  "author": "Matheus Bertelli",
+  "license": "Pexels License (free to use)",
+  "w": 4480,
+  "h": 6720
+ },
+ "bakery_sunlight_landscape.jpg": {
+  "source": "Pexels",
+  "url": "https://www.pexels.com/photo/female-baker-looking-at-baked-breads-and-pastry-7966402/",
+  "author": "Felicity Tai",
+  "license": "Pexels License (free to use)",
+  "w": 6000,
+  "h": 4000
+ },
+ "bakery_sunlight_portrait.jpg": {
+  "source": "Pexels",
+  "url": "https://www.pexels.com/photo/happy-woman-in-gray-top-holding-a-bread-7966406/",
+  "author": "Felicity Tai",
+  "license": "Pexels License (free to use)",
+  "w": 4000,
+  "h": 6000
+ },
+ "sunset_sky_landscape.jpg": {
+  "source": "Pexels",
+  "url": "https://www.pexels.com/photo/40619276/",
+  "author": "Manish Jain",
+  "license": "Pexels License (free to use)",
+  "w": 7008,
+  "h": 4672
+ },
+ "sunset_sky_portrait.jpg": {
+  "source": "Pexels",
+  "url": "https://www.pexels.com/photo/dramatic-sky-with-soft-clouds-at-sunset-36409212/",
+  "author": "Hữu Thịnh 79",
+  "license": "Pexels License (free to use)",
+  "w": 4128,
+  "h": 6192
+ },
+ "wedding_ring_landscape.mp4": {
+  "source": "Pexels",
+  "url": "https://www.pexels.com/video/close-up-of-wedding-band-and-engagement-ring-6262752/",
+  "author": "Tima Miroshnichenko",
+  "license": "Pexels License (free to use)",
+  "w": 3840,
+  "h": 2160,
+  "duration": 19
+ },
+ "wedding_ring_portrait.mp4": {
+  "source": "Pexels",
+  "url": "https://www.pexels.com/video/silver-rings-with-love-inscriptions-6763537/",
+  "author": "Michelle Leman",
+  "license": "Pexels License (free to use)",
+  "w": 2160,
+  "h": 3840,
+  "duration": 8
+ },
+ "wood_workshop_landscape.mp4": {
+  "source": "Pexels",
+  "url": "https://www.pexels.com/video/man-putting-a-wooden-plank-on-a-wood-cutter-7493219/",
+  "author": "cottonbro studio",
+  "license": "Pexels License (free to use)",
+  "w": 4096,
+  "h": 2160,
+  "duration": 33
+ },
+ "wood_workshop_portrait.mp4": {
+  "source": "Pexels",
+  "url": "https://www.pexels.com/video/people-doing-wood-works-6789913/",
+  "author": "Tima Miroshnichenko",
+  "license": "Pexels License (free to use)",
+  "w": 2160,
+  "h": 3840,
+  "duration": 26
+ },
+ "bakery_morning_landscape.mp4": {
+  "source": "Pexels",
+  "url": "https://www.pexels.com/video/a-woman-picking-bread-in-the-grocery-4121749/",
+  "author": "Jack Sparrow",
+  "license": "Pexels License (free to use)",
+  "w": 3840,
+  "h": 2160,
+  "duration": 11
+ },
+ "bakery_morning_portrait.mp4": {
+  "source": "Pexels",
+  "url": "https://www.pexels.com/video/a-low-angle-shot-of-a-pastry-shop-6307657/",
+  "author": "Uriel Mont",
+  "license": "Pexels License (free to use)",
+  "w": 2160,
+  "h": 3840,
+  "duration": 11
+ },
+ "morning_light_landscape.mp4": {
+  "source": "Pexels",
+  "url": "https://www.pexels.com/video/warm-morning-routine-in-cozy-kitchen-35674364/",
+  "author": "Alex Moliski",
+  "license": "Pexels License (free to use)",
+  "w": 3840,
+  "h": 2160,
+  "duration": 18
+ },
+ "morning_light_portrait.mp4": {
+  "source": "Pexels",
+  "url": "https://www.pexels.com/video/modern-minimalist-kitchen-with-sunlight-35801802/",
+  "author": "Cis14_04 09",
+  "license": "Pexels License (free to use)",
+  "w": 2160,
+  "h": 3840,
+  "duration": 9
+ },
+ "rain_window_landscape.mp4": {
+  "source": "Pexels",
+  "url": "https://www.pexels.com/video/raindrops-flowing-on-glass-15161525/",
+  "author": "Phil Desforges",
+  "license": "Pexels License (free to use)",
+  "w": 3840,
+  "h": 2160,
+  "duration": 15
+ },
+ "rain_window_portrait.mp4": {
+  "source": "Pexels",
+  "url": "https://www.pexels.com/video/raindrops-on-glass-with-scenic-background-30133842/",
+  "author": "Lentes  Bella",
+  "license": "Pexels License (free to use)",
+  "w": 2160,
+  "h": 3840,
+  "duration": 35
+ },
+ "wedding_garden_landscape.mp4": {
+  "source": "Pexels",
+  "url": "https://www.pexels.com/video/a-person-dropping-flower-petals-10536904/",
+  "author": "Ron Lach",
+  "license": "Pexels License (free to use)",
+  "w": 4096,
+  "h": 2160,
+  "duration": 27
+ },
+ "wedding_garden_portrait.mp4": {
+  "source": "Pexels",
+  "url": "https://www.pexels.com/video/variety-of-flowers-and-pampas-grass-on-a-concrete-vase-8195638/",
+  "author": "ROMAN ODINTSOV",
+  "license": "Pexels License (free to use)",
+  "w": 2160,
+  "h": 4096,
+  "duration": 12
+ },
+ "korean_restaurant_landscape.mp4": {
+  "source": "Pexels",
+  "url": "https://www.pexels.com/video/a-person-is-cooking-food-on-a-table-19810469/",
+  "author": "Ali  Alcántara",
+  "license": "Pexels License (free to use)",
+  "w": 3840,
+  "h": 2160,
+  "duration": 19
+ },
+ "korean_restaurant_portrait.mp4": {
+  "source": "Pexels",
+  "url": "https://www.pexels.com/video/enjoying-korean-bbq-with-friends-indoors-41127519/",
+  "author": "Misbaa eri",
+  "license": "Pexels License (free to use)",
+  "w": 2160,
+  "h": 3840,
+  "duration": 10
+ },
+ "sunset_sky_landscape.mp4": {
+  "source": "Pexels",
+  "url": "https://www.pexels.com/video/timelapse-footage-of-sunset-4501953/",
+  "author": "Wayne Speedy",
+  "license": "Pexels License (free to use)",
+  "w": 3840,
+  "h": 2160,
+  "duration": 10
+ },
+ "sunset_sky_portrait.mp4": {
+  "source": "Pexels",
+  "url": "https://www.pexels.com/video/serene-sunset-over-verdant-landscape-28925348/",
+  "author": "Haydan As-soendawy",
+  "license": "Pexels License (free to use)",
+  "w": 2160,
+  "h": 3840,
+  "duration": 22
+ },
+ "fine_dining_landscape.jpg": {
+  "source": "Pexels",
+  "url": "https://www.pexels.com/photo/clean-glassware-and-tableware-on-the-table-in-an-elegant-restaurant-17057018/",
+  "author": "Matheus Bertelli",
+  "license": "Pexels License (free to use)",
+  "w": 6565,
+  "h": 4377
+ },
+ "fine_dining_portrait.jpg": {
+  "source": "Pexels",
+  "url": "https://www.pexels.com/photo/elegant-table-setting-with-folded-napkin-28745071/",
+  "author": "Lorenzo Manera",
+  "license": "Pexels License (free to use)",
+  "w": 4128,
+  "h": 6192
+ },
+ "ryotei_landscape.jpg": {
+  "source": "Pexels",
+  "url": "https://www.pexels.com/photo/close-up-of-a-seafood-dish-in-a-small-glass-bowl-16827413/",
+  "author": "Airam Dato-on",
+  "license": "Pexels License (free to use)",
+  "w": 6000,
+  "h": 4000
+ },
+ "ryotei_portrait.jpg": {
+  "source": "Pexels",
+  "url": "https://www.pexels.com/photo/fish-and-tea-7243883/",
+  "author": "cottonbro studio",
+  "license": "Pexels License (free to use)",
+  "w": 4000,
+  "h": 6000
+ },
+ "japanese_room_landscape.jpg": {
+  "source": "Pexels",
+  "url": "https://www.pexels.com/photo/modern-design-of-a-living-room-5461586/",
+  "author": "Amelia Hallsworth",
+  "license": "Pexels License (free to use)",
+  "w": 6016,
+  "h": 4016
+ },
+ "japanese_room_portrait.jpg": {
+  "source": "Pexels",
+  "url": "https://www.pexels.com/photo/traditional-japanese-tatami-room-interior-35680935/",
+  "author": "Gül Işık",
+  "license": "Pexels License (free to use)",
+  "w": 4672,
+  "h": 7008
+ }
+}
