@@ -34,7 +34,8 @@ for r in htmls imgs audio assets videos; do
 
 Co-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>
 Claude-Session: https://claude.ai/code/session_01PY7NmrFNMFXzJbSsQMNWxP"
-    git -c push.negotiate=true push -q origin main 2>&1 | grep -v -i "negotiat" || true
-    echo "pushed $r"
+    git fetch -q --depth=50 origin main
+    git -c user.name="soulthread88" -c user.email="soulthread88@users.noreply.github.com" rebase -q --onto origin/main HEAD~1
+    if git -c push.negotiate=true push -q origin main; then echo "pushed $r"; else echo "PUSH FAILED $r"; fi
   fi
 done

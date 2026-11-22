@@ -28,5 +28,5 @@ L["jp"] = dict(
     credits_head="背景写真・動画：Pexels（無料ライセンス）―", credits_tail="ナレーション：Typecast。この物語はフィクションです。",
     thumb=dict(bg="ryotei", badge="義父、ついに動く", big1="持参金は", big2="現金500万？", vlabel="婚約者の母",
                villain="気持ちは、金額で見えるものよ", hlabel="義父", hero="お前、これ以上恥をかく前に片付けなさい",
-               tag="ライフストーリー EP01 · 人生やり直しスカッと劇"),
+               tag="ライフストーリー EP01 · 人生やり直しスカッと劇", q=("「", "」")),
 )

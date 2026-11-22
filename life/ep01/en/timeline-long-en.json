@@ -1,0 +1,2091 @@
+{
+ "lang": "en",
+ "duration": 2576.6499529999987,
+ "scenes": [
+  {
+   "id": "S01",
+   "title": "The List",
+   "stage": "hook",
+   "bg": "wedding_ring",
+   "start": 0.4,
+   "paras": [
+    {
+     "text": "\"Love is measured in dollars, dear. Everyone knows that.\"",
+     "start": 0.4,
+     "end": 4.239229
+    },
+    {
+     "text": "My future mother-in-law, Diane Whitmore, slid a single sheet of paper across the white tablecloth. At the very top, in bold letters, it said: Bride's family contribution, fifty thousand dollars.",
+     "start": 4.689229,
+     "end": 18.633401
+    },
+    {
+     "text": "My father was standing in front of her. Nobody had asked him to sit down. In his hands he held a set of walnut serving spoons he had carved himself. Three months of evenings, sanding by the light of his workshop lamp.",
+     "start": 19.083401,
+     "end": 32.765873
+    },
+    {
+     "text": "And at that moment, I smiled to myself. Because I already knew that before the night was over, that proud woman would be lowering her head in front of my father.",
+     "start": 33.215873,
+     "end": 42.054444000000004
+    },
+    {
+     "text": "How did I know? Because I was living that night for the second time.",
+     "start": 42.50444400000001,
+     "end": 46.86716500000001
+    }
+   ],
+   "end": 47.767165000000006
+  },
+  {
+   "id": "S02",
+   "title": "Welcome",
+   "stage": "intro",
+   "bg": "sunrise_city",
+   "start": 47.767165000000006,
+   "paras": [
+    {
+     "text": "Hello, friends, and welcome to Life Story, where the hard moments of life finally get the ending they deserve.",
+     "start": 47.767165000000006,
+     "end": 54.814693000000005
+    },
+    {
+     "text": "Today's story is about a small-town carpenter who never had much money, but never once did anything to be ashamed of. And it's about his daughter, who was given a second chance to protect him.",
+     "start": 55.26469300000001,
+     "end": 67.260861
+    },
+    {
+     "text": "So pour yourself a cup of coffee. Listen while you drive, while you fold the laundry, while you rest your feet. Stay with me until the end. I promise, it will be worth it.",
+     "start": 67.71086100000001,
+     "end": 78.914489
+    }
+   ],
+   "end": 79.81448900000001
+  },
+  {
+   "id": "S03",
+   "title": "The First Life",
+   "stage": "goguma",
+   "bg": "rain_window",
+   "start": 79.81448900000001,
+   "paras": [
+    {
+     "text": "My name is Grace Miller. I'm thirty-four years old, and I run a little bakery on Maple Street in our hometown in Ohio. It's called Grace's Bread Box. My father carved the sign himself, out of an old oak board.",
+     "start": 79.81448900000001,
+     "end": 96.595509
+    },
+    {
+     "text": "In my first life, I did what I was raised to do. I kept the peace. When my future mother-in-law humiliated my father, I lowered my eyes and said nothing. I told myself that once we were married, everything would settle down.",
+     "start": 97.04550900000001,
+     "end": 115.095554
+    },
+    {
+     "text": "One year after the wedding, I had lost everything.",
+     "start": 115.54555400000001,
+     "end": 118.96310500000001
+    },
+    {
+     "text": "Diane handed me some papers one afternoon. \"Just a family formality, sweetheart. Sign here and here.\" I signed them without reading a word. Those papers put a lien on my bakery building. They made my shop the collateral for a two hundred thousand dollar loan Diane had taken out in secret, from a man who called himself an investment broker.",
+     "start": 119.41310500000002,
+     "end": 141.67287800000003
+    },
+    {
+     "text": "The day the collectors came to my door, my father collapsed on the sidewalk in front of my bakery. He never got up again.",
+     "start": 142.12287800000001,
+     "end": 150.541064
+    },
+    {
+     "text": "At his funeral, Diane leaned over to a friend and said, loud enough for me to hear, \"Well, this is what happens when families from different worlds try to mix.\"",
+     "start": 150.991064,
+     "end": 163.406461
+    }
+   ],
+   "end": 164.306461
+  },
+  {
+   "id": "S04",
+   "title": "Waking Up",
+   "stage": "goguma",
+   "bg": "morning_light",
+   "start": 164.306461,
+   "paras": [
+    {
+     "text": "That night I fell asleep on my father's couch, holding the wooden spoons he had made for me.",
+     "start": 164.306461,
+     "end": 170.146733
+    },
+    {
+     "text": "When I opened my eyes, morning sunlight was pouring through the kitchen window. My phone was on the coffee table. I picked it up and stared at the date. It was a year earlier. It was the morning of the engagement dinner.",
+     "start": 170.596733,
+     "end": 184.063626
+    },
+    {
+     "text": "I thought I was dreaming. Then I heard it. A cough from the kitchen. And the soft, steady sound of sandpaper on wood.",
+     "start": 184.513626,
+     "end": 192.77335399999998
+    },
+    {
+     "text": "I ran in, barefoot. My father turned around, holding a finished spoon up to the light.",
+     "start": 193.22335399999997,
+     "end": 198.79961299999997
+    },
+    {
+     "text": "\"Whoa, slow down, kiddo. You'll slip and break your neck.\"",
+     "start": 199.24961299999995,
+     "end": 203.82673299999996
+    },
+    {
+     "text": "I threw my arms around him and cried like a little girl. He didn't understand, of course. He just patted my back the way he did when I was seven.",
+     "start": 204.27673299999995,
+     "end": 213.69505499999994
+    },
+    {
+     "text": "\"Ah. Getting cold feet about leaving your old man, huh?\"",
+     "start": 214.14505499999993,
+     "end": 218.03546299999994
+    },
+    {
+     "text": "Right then, I made a promise. This time, I would not lose him. Not like that. Never like that.",
+     "start": 218.48546299999992,
+     "end": 225.90446499999993
+    }
+   ],
+   "end": 226.80446499999994
+  },
+  {
+   "id": "S04B",
+   "title": "Who My Father Is",
+   "stage": "goguma",
+   "bg": "wood_workshop",
+   "start": 226.80446499999994,
+   "paras": [
+    {
+     "text": "Let me tell you a little more about my father. Tom Miller.",
+     "start": 226.80446499999994,
+     "end": 230.80210699999995
+    },
+    {
+     "text": "My mother passed away when I was seven. From that day on, it was just the two of us. Dad got up at five every morning to pack my lunch. In the evenings he set up a little desk for me in the corner of his workshop, and I did my homework surrounded by the smell of sawdust and pine.",
+     "start": 231.25210699999994,
+     "end": 247.03568999999993
+    },
+    {
+     "text": "Dad was not a man of many words. He talked with his hands. Every birthday he carved me something. A little wooden dog when I turned seven. A pencil box when I turned ten. A bookshelf with my name on it when I turned fifteen. I still have every one of them.",
+     "start": 247.48568999999992,
+     "end": 262.6918799999999
+    },
+    {
+     "text": "On the day I graduated from high school, Dad bought his first suit. He took my hand and said, \"Gracie, I don't have much. But I've never done one thing in my life that would make you ashamed of me. That much, I can promise you.\"",
+     "start": 263.1418799999999,
+     "end": 276.5067779999999
+    },
+    {
+     "text": "That was the same suit he wore to the engagement dinner.",
+     "start": 276.9567779999999,
+     "end": 280.21734499999985
+    },
+    {
+     "text": "In my first life, I was embarrassed that the sleeves were too short. That is the one thing I have never been able to forgive myself for.",
+     "start": 280.66734499999984,
+     "end": 288.45460099999985
+    }
+   ],
+   "end": 289.35460099999983
+  },
+  {
+   "id": "S05",
+   "title": "Getting Ready",
+   "stage": "goguma",
+   "bg": "notebook_desk",
+   "start": 289.35460099999983,
+   "paras": [
+    {
+     "text": "That morning, I did three things.",
+     "start": 289.35460099999983,
+     "end": 292.19317199999983
+    },
+    {
+     "text": "First, I practiced using the voice recorder on my phone. I checked again and again that it would pick up a conversation from inside my purse.",
+     "start": 292.6431719999998,
+     "end": 302.2201109999998
+    },
+    {
+     "text": "Second, I wrote down everything I remembered from my first life. The lender was a company called Summit Capital Partners. The broker was a man named Gary Pruitt, who wore a gold watch and called everybody \"friend.\" And the day Diane would ask me to sign was exactly two weeks before the wedding.",
+     "start": 302.6701109999998,
+     "end": 321.77269599999977
+    },
+    {
+     "text": "Third, I thought about one person. My future father-in-law, Richard Whitmore.",
+     "start": 322.22269599999976,
+     "end": 327.84380699999974
+    },
+    {
+     "text": "In my first life, Richard hardly ever spoke. At family dinners he read the newspaper and nodded at whatever Diane said. I thought he simply didn't care.",
+     "start": 328.29380699999973,
+     "end": 338.8704059999997
+    },
+    {
+     "text": "But at my father's funeral, Richard was the last to arrive and the last to leave. He stood in front of Dad's casket for a long, long time. And on his way out, he said something to me so quietly that no one else heard.",
+     "start": 339.3204059999997,
+     "end": 352.1569139999997
+    },
+    {
+     "text": "\"I found out too late. I'm sorry.\"",
+     "start": 352.6069139999997,
+     "end": 355.55117699999965
+    },
+    {
+     "text": "Back then, I didn't understand what he meant. This time, I was going to find out.",
+     "start": 356.00117699999964,
+     "end": 361.4204059999996
+    }
+   ],
+   "end": 362.3204059999996
+  },
+  {
+   "id": "S05B",
+   "title": "Who Ethan Is",
+   "stage": "goguma",
+   "bg": "bakery_morning",
+   "start": 362.3204059999996,
+   "paras": [
+    {
+     "text": "My fiancé, Ethan Whitmore, was one of my regular customers.",
+     "start": 362.3204059999996,
+     "end": 367.1593179999996
+    },
+    {
+     "text": "Three winters ago, he came in every morning at eight o'clock and bought two cinnamon rolls. Then came the big snowstorm, the day not a single customer showed up. Ethan walked in, shook the snow off his coat, and said, \"I'll take everything you have left. I'll give them out at the office.\" That was the day we started talking.",
+     "start": 367.6093179999996,
+     "end": 388.8171859999996
+    },
+    {
+     "text": "Ethan was a kind man. He used to stop by Dad's workshop on Friday nights and drink a beer with him on the porch. Dad liked him a lot.",
+     "start": 389.2671859999996,
+     "end": 397.8958709999996
+    },
+    {
+     "text": "But Ethan had one weakness. In front of his mother, he could not say a word.",
+     "start": 398.3458709999996,
+     "end": 403.5540569999996
+    },
+    {
+     "text": "In my first life, I believed love would be enough to fix that. It wasn't. Every time he stayed silent, I was standing there alone.",
+     "start": 404.0040569999996,
+     "end": 412.1014039999996
+    },
+    {
+     "text": "This time, I couldn't change him by force. He had to choose for himself.",
+     "start": 412.5514039999996,
+     "end": 417.7033769999996
+    }
+   ],
+   "end": 418.60337699999957
+  },
+  {
+   "id": "S06",
+   "title": "The Engagement Dinner",
+   "stage": "goguma",
+   "bg": "fine_dining",
+   "start": 418.60337699999957,
+   "paras": [
+    {
+     "text": "The dinner was at the Ridgewood Country Club. Diane had chosen it, of course.",
+     "start": 418.60337699999957,
+     "end": 423.60126799999955
+    },
+    {
+     "text": "That morning, my father took his one good suit out of the closet. The sleeves were still a little short. He stood in front of the mirror and retied his tie three times.",
+     "start": 424.05126799999954,
+     "end": 435.41750399999955
+    },
+    {
+     "text": "\"How do I look, Gracie? I don't want to embarrass you in front of those folks.\"",
+     "start": 435.86750399999954,
+     "end": 440.01986199999953
+    },
+    {
+     "text": "\"Dad, you look like the most handsome man in the world.\"",
+     "start": 440.4698619999995,
+     "end": 444.51952199999954
+    },
+    {
+     "text": "And I meant every word.",
+     "start": 444.96952199999953,
+     "end": 447.2301569999995
+    }
+   ],
+   "end": 448.1301569999995
+  },
+  {
+   "id": "S06B",
+   "title": "The Parking Lot",
+   "stage": "goguma",
+   "bg": "night_city_lights",
+   "start": 448.1301569999995,
+   "paras": [
+    {
+     "text": "The insults started before we even walked in the door.",
+     "start": 448.1301569999995,
+     "end": 451.54884199999947
+    },
+    {
+     "text": "Dad drove us there in his work truck, a twenty-year-old Ford with a ladder rack on top. He had taken it to the car wash that morning and polished it until it shined.",
+     "start": 451.99884199999946,
+     "end": 461.6777539999995
+    },
+    {
+     "text": "Diane was getting out of her silver Mercedes when she saw the truck. She stopped and stared.",
+     "start": 462.12775399999947,
+     "end": 467.8610649999995
+    },
+    {
+     "text": "\"Oh, my. Tom, is it? Would you mind parking that around the back? By the dumpsters, maybe. The valet will understand. It just doesn't look right next to the members' cars.\"",
+     "start": 468.3110649999995,
+     "end": 478.6172329999995
+    },
+    {
+     "text": "Dad said, \"Oh, sure, sure, no problem,\" and moved the truck to the far end of the lot, next to the trash bins. Then he walked all the way back, wiping his forehead with his sleeve.",
+     "start": 479.0672329999995,
+     "end": 492.6963709999995
+    },
+    {
+     "text": "That's when I noticed someone standing quietly by the entrance, watching the whole thing. It was Richard. He had come by taxi, alone. He looked at my father's truck for a long moment. Then he turned and went inside without a word.",
+     "start": 493.1463709999995,
+     "end": 508.1959169999995
+    }
+   ],
+   "end": 509.0959169999995
+  },
+  {
+   "id": "S07",
+   "title": "Numbers on a Page",
+   "stage": "goguma",
+   "bg": "paper_document",
+   "start": 509.0959169999995,
+   "paras": [
+    {
+     "text": "Inside the private dining room, Diane was seated at the head of the table, pearls at her throat, her designer handbag on the chair beside her. Ethan sat next to her, smiling nervously. His sister, Brittany, was taking pictures of the bread basket. Richard sat at the far end by the window, saying nothing.",
+     "start": 509.0959169999995,
+     "end": 529.5145339999995
+    },
+    {
+     "text": "My father bowed his head politely. \"Good evening, ma'am. I'm Tom Miller, Grace's dad.\"",
+     "start": 529.9645339999995,
+     "end": 536.3296359999995
+    },
+    {
+     "text": "Diane looked him up and down. And she did not invite him to sit. There was an empty chair right in front of him. She just didn't offer it.",
+     "start": 536.7796359999995,
+     "end": 545.4583889999996
+    },
+    {
+     "text": "Dad hesitated, then stayed on his feet. Inside my purse, I pressed record.",
+     "start": 545.9083889999996,
+     "end": 551.5373229999996
+    },
+    {
+     "text": "Diane pulled an envelope out of her bag and unfolded a typed list.",
+     "start": 551.9873229999996,
+     "end": 556.6689329999996
+    },
+    {
+     "text": "Bride's family contribution, fifty thousand dollars. Rehearsal dinner, eight thousand. Flowers, six thousand. A new suit for Richard. A fur coat for Diane. A designer bag for Brittany. Next to every item, there was nothing but a number.",
+     "start": 557.1189329999996,
+     "end": 573.3233999999997
+    },
+    {
+     "text": "\"These days we like to put everything in writing,\" Diane said. \"So there are no misunderstandings.\"",
+     "start": 573.7733999999997,
+     "end": 580.0833769999997
+    },
+    {
+     "text": "My father took the paper. His hand was shaking a little. Added together, those numbers came to more than he had saved in his entire life.",
+     "start": 580.5333769999997,
+     "end": 590.0041249999997
+    },
+    {
+     "text": "\"Ma'am, I'll be honest with you. We don't have that kind of money. But I made something for the kids. Something from the heart.\"",
+     "start": 590.4541249999997,
+     "end": 598.0805649999998
+    },
+    {
+     "text": "He unwrapped a soft cloth. Inside was a set of walnut serving spoons, the handles carved with two names. Ethan. Grace.",
+     "start": 598.5305649999998,
+     "end": 607.3156439999998
+    },
+    {
+     "text": "The room went quiet.",
+     "start": 607.7656439999998,
+     "end": 609.3950769999998
+    },
+    {
+     "text": "And then Diane laughed. Out loud, and for a long time.",
+     "start": 609.8450769999998,
+     "end": 614.0443969999999
+    }
+   ],
+   "end": 614.9443969999999
+  },
+  {
+   "id": "S08",
+   "title": "The Insult",
+   "stage": "goguma",
+   "bg": "dark_window_light",
+   "start": 614.9443969999999,
+   "paras": [
+    {
+     "text": "\"Wooden spoons? Oh, Tom. That's adorable.\"",
+     "start": 614.9443969999999,
+     "end": 618.5136709999998
+    },
+    {
+     "text": "She picked one up between two fingers, as if it were something dirty.",
+     "start": 618.9636709999999,
+     "end": 623.5921289999999
+    },
+    {
+     "text": "\"Do you know what kind of family we are? Richard owns one of the biggest construction companies in the state. When we have guests, we can't exactly serve them with something from a craft fair.\"",
+     "start": 624.0421289999999,
+     "end": 635.878977
+    },
+    {
+     "text": "\"I just wanted to give them something with love in it,\" my father said quietly.",
+     "start": 636.328977,
+     "end": 641.273444
+    },
+    {
+     "text": "Diane cut him off.",
+     "start": 641.7234440000001,
+     "end": 643.2990450000001
+    },
+    {
+     "text": "\"Love is measured in dollars, dear. Everyone knows that.\"",
+     "start": 643.7490450000001,
+     "end": 647.5882740000002
+    },
+    {
+     "text": "She set the spoon down on the edge of the table. It rolled off and clattered onto the floor. My father bent down to pick it up. The knee of his only suit touched the carpet.",
+     "start": 648.0382740000002,
+     "end": 659.0832400000003
+    },
+    {
+     "text": "\"Let me be frank. If you can't manage even this much, maybe this marriage isn't such a good idea. Ethan has plenty of options. Very good families have been asking about him.\"",
+     "start": 659.5332400000003,
+     "end": 670.2108360000003
+    },
+    {
+     "text": "I looked at Ethan. He was staring at his water glass. Just like in my first life. At this exact moment, he never said a thing.",
+     "start": 670.6608360000004,
+     "end": 678.8686360000004
+    },
+    {
+     "text": "And Richard. Richard was looking out the window. But this time, I saw something I had missed before. Under the table, his hand was clenched into a fist so tight his knuckles had turned white.",
+     "start": 679.3186360000004,
+     "end": 691.3159600000005
+    }
+   ],
+   "end": 692.2159600000005
+  },
+  {
+   "id": "S08B",
+   "title": "The Check",
+   "stage": "goguma",
+   "bg": "fine_dining",
+   "start": 692.2159600000005,
+   "paras": [
+    {
+     "text": "It didn't stop there.",
+     "start": 692.2159600000005,
+     "end": 693.7398150000005
+    },
+    {
+     "text": "Diane called the waiter over and ordered the most expensive things on the menu. The filet mignon. The lobster tail. A bottle of wine that cost more than my weekly sales. Then she glanced at my father, still standing.",
+     "start": 694.1898150000005,
+     "end": 707.2378880000006
+    },
+    {
+     "text": "\"And what will you have, Tom? Oh, I suppose it's awkward to eat standing up. Maybe just some coffee.\"",
+     "start": 707.6878880000006,
+     "end": 713.7847130000006
+    },
+    {
+     "text": "So my father drank a glass of water for the entire evening. Brittany posted photos of her lobster. Ethan stared at his plate.",
+     "start": 714.2347130000006,
+     "end": 722.0736020000006
+    },
+    {
+     "text": "When the check came, Diane slid it toward my father.",
+     "start": 722.5236020000007,
+     "end": 725.9948720000007
+    },
+    {
+     "text": "\"Nowadays both families split these dinners, don't they? It's nine hundred dollars, so your half is four fifty.\"",
+     "start": 726.4448720000007,
+     "end": 733.9132390000007
+    },
+    {
+     "text": "My father took out his debit card. The money in that account came from three rocking chairs he had built that month. He paid for a dinner he never ate, and he thanked them for having us.",
+     "start": 734.3632390000007,
+     "end": 745.7280010000007
+    }
+   ],
+   "end": 746.6280010000007
+  },
+  {
+   "id": "S09",
+   "title": "Why I Stayed Quiet",
+   "stage": "goguma",
+   "bg": "night_street",
+   "start": 746.6280010000007,
+   "paras": [
+    {
+     "text": "Honestly, I wanted to flip that table over. My blood was boiling.",
+     "start": 746.6280010000007,
+     "end": 751.5720830000007
+    },
+    {
+     "text": "But I held it in. If I lost my temper now, Diane would simply call me rude and ungrateful, and Ethan would be told to find a better girl. And those loan papers would find another way into my hands. I didn't need a scene. I needed proof. Proof she couldn't talk her way out of.",
+     "start": 752.0220830000007,
+     "end": 768.4934210000007
+    },
+    {
+     "text": "\"Mrs. Whitmore, thank you for being so clear,\" I said politely. \"My father and I will talk it over and get back to you.\"",
+     "start": 768.9434210000007,
+     "end": 776.1499290000007
+    },
+    {
+     "text": "Diane smiled like a woman who had just won.",
+     "start": 776.5999290000008,
+     "end": 779.8085000000008
+    },
+    {
+     "text": "On the drive home, my father didn't say one word. He kept the cloth with the spoons on his lap and watched the dark fields go by. When we pulled into the driveway, he finally spoke.",
+     "start": 780.2585000000008,
+     "end": 791.3081600000008
+    },
+    {
+     "text": "\"Gracie, I'm sorry your dad isn't more. Watching them look down on you because of me, that's the worst part.\"",
+     "start": 791.7581600000009,
+     "end": 798.9659600000009
+    },
+    {
+     "text": "\"Dad, don't you ever say that. You are not the one who should be sorry.\"",
+     "start": 799.415960000001,
+     "end": 803.777389000001
+    },
+    {
+     "text": "That night the light in his workshop stayed on until two in the morning. When I peeked through the door, he was sanding those spoons again. Spoons that were already smooth as glass. That was how my father carried his sadness.",
+     "start": 804.227389000001,
+     "end": 816.853443000001
+    }
+   ],
+   "end": 817.753443000001
+  },
+  {
+   "id": "S09B",
+   "title": "The Phone Call",
+   "stage": "goguma",
+   "bg": "rain_street",
+   "start": 817.753443000001,
+   "paras": [
+    {
+     "text": "The next morning, Diane called my father directly. She didn't even go through me.",
+     "start": 817.753443000001,
+     "end": 824.1197700000009
+    },
+    {
+     "text": "He had her on speaker, and her voice was ice-cold.",
+     "start": 824.569770000001,
+     "end": 828.3033980000009
+    },
+    {
+     "text": "\"Tom, have you thought about it? We've booked the venue, we can't wait forever. And frankly, our relatives will talk. If the bride's side shows up with wooden spoons, what am I supposed to tell people?\"",
+     "start": 828.753398000001,
+     "end": 841.801108000001
+    },
+    {
+     "text": "\"Ma'am, if you could just give me a little time.\"",
+     "start": 842.2511080000011,
+     "end": 845.6689760000011
+    },
+    {
+     "text": "\"I've given you plenty of time. And one more thing. At the wedding, if you're sitting there all by yourself, it looks a little sad, doesn't it? Can't you bring some relatives? The guest numbers on your side are just embarrassing.\"",
+     "start": 846.1189760000011,
+     "end": 861.9024000000011
+    },
+    {
+     "text": "My father said, \"Yes, ma'am, I understand,\" and hung up. That afternoon, in the pouring rain, without an umbrella, he walked to the bank.",
+     "start": 862.3524000000011,
+     "end": 871.5602000000011
+    },
+    {
+     "text": "The balance in his savings account was twelve thousand dollars. Everything he had saved in forty years of work.",
+     "start": 872.0102000000012,
+     "end": 878.9504040000012
+    }
+   ],
+   "end": 879.8504040000012
+  },
+  {
+   "id": "S09C",
+   "title": "The Rumors",
+   "stage": "goguma",
+   "bg": "city_cafe",
+   "start": 879.8504040000012,
+   "paras": [
+    {
+     "text": "That weekend, strange rumors started going around town.",
+     "start": 879.8504040000012,
+     "end": 883.9009030000011
+    },
+    {
+     "text": "\"Did you hear? The Miller girl from the bakery is marrying into the Whitmore money. Smart girl. She knows exactly what she's doing.\"",
+     "start": 884.3509030000012,
+     "end": 892.8743950000012
+    },
+    {
+     "text": "The rumors came from Diane's friends. Diane brought three of them into my bakery, ordered lattes, and talked loudly enough for every customer to hear.",
+     "start": 893.3243950000012,
+     "end": 902.0584540000012
+    },
+    {
+     "text": "\"Girls these days are so clever. Walk in with nothing and walk out with a construction fortune.\"",
+     "start": 902.5084540000013,
+     "end": 908.6109480000013
+    },
+    {
+     "text": "\"In our day, we'd never have dreamed of it.\"",
+     "start": 909.0609480000013,
+     "end": 912.0056650000013
+    },
+    {
+     "text": "Mrs. Patterson, an old regular of mine, reached across the counter and squeezed my hand. \"Don't you listen to them, honey. This whole town knows who you are.\"",
+     "start": 912.4556650000013,
+     "end": 922.4005630000013
+    },
+    {
+     "text": "But that evening, a few regulars didn't come back. After closing, I kneaded tomorrow's dough alone and cried. I kept my chin up the whole time, so my tears wouldn't fall into the bread.",
+     "start": 922.8505630000013,
+     "end": 934.9537600000014
+    }
+   ],
+   "end": 935.8537600000013
+  },
+  {
+   "id": "S10",
+   "title": "Diane at the Bakery",
+   "stage": "goguma",
+   "bg": "bakery_morning",
+   "start": 935.8537600000013,
+   "paras": [
+    {
+     "text": "A week later, Diane came back to my bakery, alone this time, without calling ahead.",
+     "start": 935.8537600000013,
+     "end": 942.6935560000013
+    },
+    {
+     "text": "She walked slowly around the shop. The display case. The sourdough loaves. The wooden trays my father had made for me.",
+     "start": 943.1435560000014,
+     "end": 950.9804270000013
+    },
+    {
+     "text": "\"It's smaller than I expected. But the location is good. I hear you own the building, Grace?\"",
+     "start": 951.4304270000014,
+     "end": 957.3739640000014
+    },
+    {
+     "text": "I had been waiting for that question. In my first life, she asked the very same thing.",
+     "start": 957.8239640000014,
+     "end": 963.8701540000014
+    },
+    {
+     "text": "The building had been left to me by my grandmother. Before she passed, she told me, \"Gracie, this building is what your father paid for with his own two hands. Keep it safe.\" I found out later that when Dad was young, he had worked himself to the bone to pay off Grandma's debts.",
+     "start": 964.3201540000015,
+     "end": 980.5819680000014
+    },
+    {
+     "text": "\"Yes, ma'am. My grandmother left it to me.\"",
+     "start": 981.0319680000015,
+     "end": 983.9236910000014
+    },
+    {
+     "text": "\"Wonderful. Once you're married, we're all one family. If the family ever needs a little help, you'll do your part. That's what a good daughter-in-law does.\"",
+     "start": 984.3736910000015,
+     "end": 994.2127160000015
+    },
+    {
+     "text": "She left without buying a single thing. On her way out, she flicked my father's wooden tray with one finger.",
+     "start": 994.6627160000015,
+     "end": 1001.5541220000015
+    },
+    {
+     "text": "\"And get rid of these country things. They look cheap.\"",
+     "start": 1002.0041220000015,
+     "end": 1005.6327840000015
+    }
+   ],
+   "end": 1006.5327840000015
+  },
+  {
+   "id": "S10B",
+   "title": "Brittany's Photos",
+   "stage": "goguma",
+   "bg": "bakery_sunlight",
+   "start": 1006.5327840000015,
+   "paras": [
+    {
+     "text": "That Saturday, Ethan's sister Brittany came in with her friends.",
+     "start": 1006.5327840000015,
+     "end": 1010.7407660000015
+    },
+    {
+     "text": "She took pictures of everything, then held up one of my father's wooden trays and giggled.",
+     "start": 1011.1907660000015,
+     "end": 1017.4495640000015
+    },
+    {
+     "text": "\"Oh my gosh, Grace, is this, like, a farmhouse theme? It's so grandpa.\"",
+     "start": 1017.8995640000015,
+     "end": 1024.2648700000016
+    },
+    {
+     "text": "Her friends laughed. That night, a photo of my display case appeared on Brittany's social media. Under it, she had written, \"My brother's fiancée's little shop. Cute vibe. But, like, a totally different world from ours.\"",
+     "start": 1024.7148700000016,
+     "end": 1039.2378180000017
+    },
+    {
+     "text": "The comments filled up with laughing emojis. I took a screenshot. Not because I was angry. Because one day, I knew, I would need to show all of this, exactly as it was.",
+     "start": 1039.6878180000017,
+     "end": 1051.8920580000017
+    },
+    {
+     "text": "The next morning, my father stopped by. He picked up one of the wooden trays and quietly started to slip it into his bag.",
+     "start": 1052.3420580000018,
+     "end": 1059.4928740000018
+    },
+    {
+     "text": "\"Dad, what are you doing?\"",
+     "start": 1059.942874000002,
+     "end": 1061.9931230000018
+    },
+    {
+     "text": "\"I heard people were making fun of you because of these. I'll buy you some nice new ones.\"",
+     "start": 1062.4431230000018,
+     "end": 1067.7560710000018
+    },
+    {
+     "text": "\"Dad, put that back. That tray is the most valuable thing in this store.\"",
+     "start": 1068.2060710000019,
+     "end": 1072.9388600000018
+    }
+   ],
+   "end": 1073.838860000002
+  },
+  {
+   "id": "S11",
+   "title": "Gathering Proof",
+   "stage": "goguma",
+   "bg": "city_cafe",
+   "start": 1073.838860000002,
+   "paras": [
+    {
+     "text": "From that day on, I moved quietly.",
+     "start": 1073.838860000002,
+     "end": 1076.7830320000019
+    },
+    {
+     "text": "First, I went to the office of Summit Capital Partners, pretending to ask about a small business loan. On the wall by the reception desk was a row of business cards. One of them said, \"Gary Pruitt, Senior Investment Advisor.\"",
+     "start": 1077.233032000002,
+     "end": 1091.5445740000018
+    },
+    {
+     "text": "I took a picture of it.",
+     "start": 1091.9945740000019,
+     "end": 1093.9365240000018
+    },
+    {
+     "text": "Next, I went to the county recorder's office and pulled the records for my building. Nothing had happened yet. The title was clean. That same day, I signed up for the county's free property fraud alert. If anyone filed anything against my property, I would get an email within hours. In my first life, I never knew that service existed.",
+     "start": 1094.3865240000018,
+     "end": 1115.2676350000017
+    },
+    {
+     "text": "Finally, I met Ethan for coffee.",
+     "start": 1115.7176350000018,
+     "end": 1118.7157760000018
+    },
+    {
+     "text": "\"Ethan, is your mom having money trouble?\"",
+     "start": 1119.1657760000019,
+     "end": 1122.005753000002
+    },
+    {
+     "text": "His face froze. He hesitated for a long time. Then it all came out.",
+     "start": 1122.455753000002,
+     "end": 1128.083916000002
+    },
+    {
+     "text": "\"She put money into some investment a friend recommended. It went bad. Dad doesn't know. She made me swear not to tell him.\"",
+     "start": 1128.5339160000021,
+     "end": 1136.6330770000022
+    },
+    {
+     "text": "\"How much?\"",
+     "start": 1137.0830770000023,
+     "end": 1138.2383150000023
+    },
+    {
+     "text": "\"About two hundred thousand. But Grace, it's our family's problem. You don't need to worry about it.\"",
+     "start": 1138.6883150000024,
+     "end": 1144.4765240000024
+    },
+    {
+     "text": "In my first life, at this exact moment, I said, \"Okay.\" And that two hundred thousand dollars ended up being paid with my bakery.",
+     "start": 1144.9265240000025,
+     "end": 1154.0811730000025
+    },
+    {
+     "text": "This time, I said something different.",
+     "start": 1154.5311730000026,
+     "end": 1157.3716950000025
+    },
+    {
+     "text": "\"Ethan, it's going to be my problem too. Very soon.\"",
+     "start": 1157.8216950000026,
+     "end": 1161.8137130000025
+    }
+   ],
+   "end": 1162.7137130000026
+  },
+  {
+   "id": "S11B",
+   "title": "Gary's Visit",
+   "stage": "goguma",
+   "bg": "bakery_sunlight",
+   "start": 1162.7137130000026,
+   "paras": [
+    {
+     "text": "Three days later, a stranger walked into the bakery. Black leather jacket, gold watch. Gary Pruitt.",
+     "start": 1162.7137130000026,
+     "end": 1169.7120580000026
+    },
+    {
+     "text": "He picked up a muffin and looked around the shop for a long time. Like a man putting a price on everything he saw.",
+     "start": 1170.1620580000026,
+     "end": 1176.8935090000027
+    },
+    {
+     "text": "\"Nice place. Good foot traffic. You're Grace Miller? I hear you're about to become family.\"",
+     "start": 1177.3435090000028,
+     "end": 1183.0252320000027
+    },
+    {
+     "text": "\"And you are?\"",
+     "start": 1183.4752320000027,
+     "end": 1184.7878400000027
+    },
+    {
+     "text": "\"Just a friend helping your future mother-in-law with some business. There'll be some paperwork for you soon. I'm sure you'll be cooperative.\"",
+     "start": 1185.2378400000027,
+     "end": 1192.9729190000028
+    },
+    {
+     "text": "He left his business card on the counter. At the door, he turned around.",
+     "start": 1193.4229190000028,
+     "end": 1197.9967510000029
+    },
+    {
+     "text": "\"Families help each other, right, friend? When they don't, life gets complicated.\"",
+     "start": 1198.446751000003,
+     "end": 1203.444483000003
+    },
+    {
+     "text": "That wasn't a request. It was a threat. And the phone in my apron pocket recorded every word.",
+     "start": 1203.894483000003,
+     "end": 1209.994188000003
+    }
+   ],
+   "end": 1210.8941880000032
+  },
+  {
+   "id": "S12",
+   "title": "Dad's Workshop",
+   "stage": "goguma",
+   "bg": "wood_workshop",
+   "start": 1210.8941880000032,
+   "paras": [
+    {
+     "text": "That Saturday, Diane showed up at my father's workshop. She brought Ethan and Brittany with her.",
+     "start": 1210.8941880000032,
+     "end": 1217.101172000003
+    },
+    {
+     "text": "The workshop sat at the end of our road, an old barn Dad had fixed up himself. It smelled of cedar and sawdust. It was where I grew up.",
+     "start": 1217.5511720000031,
+     "end": 1228.228043000003
+    },
+    {
+     "text": "Diane walked in holding a tissue over her nose.",
+     "start": 1228.678043000003,
+     "end": 1231.831490000003
+    },
+    {
+     "text": "\"Goodness, the dust. Tom, do you live out here?\"",
+     "start": 1232.281490000003,
+     "end": 1235.2252090000031
+    },
+    {
+     "text": "\"No, ma'am, this is where I work. Can I get you some coffee?\"",
+     "start": 1235.6752090000032,
+     "end": 1239.5137580000032
+    },
+    {
+     "text": "\"No, thank you. We won't be long.\"",
+     "start": 1239.9637580000033,
+     "end": 1242.1186560000033
+    },
+    {
+     "text": "She looked at a rocking chair on the workbench. Dad was building it for the senior center in town. Free of charge.",
+     "start": 1242.5686560000033,
+     "end": 1249.7767290000033
+    },
+    {
+     "text": "\"How much do you get for one of these? A couple hundred? At this rate, when exactly will you have fifty thousand?\"",
+     "start": 1250.2267290000034,
+     "end": 1256.8556860000033
+    },
+    {
+     "text": "Brittany snickered. Ethan stood by the door, looking at his phone.",
+     "start": 1257.3056860000033,
+     "end": 1261.7241670000033
+    },
+    {
+     "text": "\"If it's really that hard, there's an easy way. Grace's building. Take out a small loan against it and you're done. It'll be family property soon anyway.\"",
+     "start": 1262.1741670000033,
+     "end": 1271.7502210000034
+    },
+    {
+     "text": "My father's face went white.",
+     "start": 1272.2002210000035,
+     "end": 1274.9879080000035
+    },
+    {
+     "text": "\"Ma'am, no. That building came from Grace's grandmother. It belongs to Grace.\"",
+     "start": 1275.4379080000035,
+     "end": 1280.9089960000035
+    },
+    {
+     "text": "\"Oh, Tom. You're going to marry off your daughter and keep everything locked up for yourselves? What does that say about how you see us?\"",
+     "start": 1281.3589960000036,
+     "end": 1289.6143470000036
+    }
+   ],
+   "end": 1290.5143470000037
+  },
+  {
+   "id": "S12B",
+   "title": "The Wedding Dress",
+   "stage": "goguma",
+   "bg": "wedding_ring",
+   "start": 1290.5143470000037,
+   "paras": [
+    {
+     "text": "Three weeks before the wedding, I went to choose my dress.",
+     "start": 1290.5143470000037,
+     "end": 1294.1964100000037
+    },
+    {
+     "text": "Diane looked at the one I loved and shook her head. Then she turned to the saleswoman.",
+     "start": 1294.6464100000037,
+     "end": 1300.0124420000036
+    },
+    {
+     "text": "\"Not that one. Show us the most basic one you have. The bride's side isn't contributing anything, so there's no reason for us to go overboard.\"",
+     "start": 1300.4624420000036,
+     "end": 1309.5067500000036
+    },
+    {
+     "text": "The saleswoman looked embarrassed for me. I smiled and said, \"It's fine. The simple one is perfect.\"",
+     "start": 1309.9567500000037,
+     "end": 1316.8952080000038
+    },
+    {
+     "text": "But what Diane said next made my whole body go cold.",
+     "start": 1317.3452080000038,
+     "end": 1322.237906000004
+    },
+    {
+     "text": "\"And Grace, about walking down the aisle. If your father comes in that old suit, it's going to ruin the photos. Why doesn't Richard's brother walk you instead? Lots of families do that now.\"",
+     "start": 1322.687906000004,
+     "end": 1334.262668000004
+    },
+    {
+     "text": "I couldn't answer. My father walking me down the aisle. He had talked about it since I was a little girl. \"That's the one day I'm living for, Gracie.\"",
+     "start": 1334.712668000004,
+     "end": 1342.970083000004
+    },
+    {
+     "text": "That night, I couldn't bring myself to tell him.",
+     "start": 1343.420083000004,
+     "end": 1346.573802000004
+    }
+   ],
+   "end": 1347.473802000004
+  },
+  {
+   "id": "S12C",
+   "title": "The Invitations",
+   "stage": "goguma",
+   "bg": "paper_document",
+   "start": 1347.473802000004,
+   "paras": [
+    {
+     "text": "A week later, the invitation proofs arrived.",
+     "start": 1347.473802000004,
+     "end": 1351.2070220000041
+    },
+    {
+     "text": "Mr. and Mrs. Richard Whitmore, printed large and elegant at the top. But on the bride's side, my father's name was gone.",
+     "start": 1351.6570220000042,
+     "end": 1359.3939380000043
+    },
+    {
+     "text": "\"Diane, my father's name is missing.\"",
+     "start": 1359.8439380000043,
+     "end": 1362.4198110000043
+    },
+    {
+     "text": "\"Oh, that. Well, there's only one of him, so it looked a little empty. The designer said it's cleaner to just use your name.\"",
+     "start": 1362.8698110000043,
+     "end": 1371.0263420000044
+    },
+    {
+     "text": "My hands were shaking. I couldn't believe she could talk about my mother being gone like that.",
+     "start": 1371.4763420000045,
+     "end": 1376.5770000000045
+    },
+    {
+     "text": "\"Please put my father's name on it. That's the one thing I won't give up.\"",
+     "start": 1377.0270000000046,
+     "end": 1381.5507640000046
+    },
+    {
+     "text": "Diane sighed and said she would add it. In small print. Less than half the size of theirs.",
+     "start": 1382.0007640000047,
+     "end": 1388.4702650000047
+    },
+    {
+     "text": "That evening, I showed Dad the proof. He put on his reading glasses and ran his finger over that tiny line of print for a long time.",
+     "start": 1388.9202650000047,
+     "end": 1396.2317840000048
+    },
+    {
+     "text": "\"There's my name, right next to my girl's. That's enough. That's all I need.\"",
+     "start": 1396.6817840000049,
+     "end": 1401.310628000005
+    }
+   ],
+   "end": 1402.210628000005
+  },
+  {
+   "id": "S13",
+   "title": "Dad's Decision",
+   "stage": "goguma",
+   "bg": "rain_street",
+   "start": 1402.210628000005,
+   "paras": [
+    {
+     "text": "After Diane left, my father sat at his workbench for a long time.",
+     "start": 1402.210628000005,
+     "end": 1407.207816000005
+    },
+    {
+     "text": "\"Gracie. I've been thinking.\"",
+     "start": 1407.6578160000051,
+     "end": 1410.128995000005
+    },
+    {
+     "text": "\"Yes, Dad?\"",
+     "start": 1410.578995000005,
+     "end": 1412.311557000005
+    },
+    {
+     "text": "\"This workshop. If I sell it, I can probably get thirty thousand. Add my savings, and we're close to fifty.\"",
+     "start": 1412.761557000005,
+     "end": 1420.649244000005
+    },
+    {
+     "text": "\"Dad! Then where would you work?\"",
+     "start": 1421.099244000005,
+     "end": 1423.570128000005
+    },
+    {
+     "text": "\"I'm getting old anyway. Maybe it's time to retire. Seeing you walk into that family with your head held high, that's what matters to me.\"",
+     "start": 1424.0201280000051,
+     "end": 1432.8587900000052
+    },
+    {
+     "text": "I burst into tears right there. In my first life, he really did sell the workshop. I didn't find out until after the wedding. Without his work, he grew weaker and weaker, in body and in spirit.",
+     "start": 1433.3087900000053,
+     "end": 1447.8824630000054
+    },
+    {
+     "text": "\"Dad, listen to me. You are not selling this workshop. Give me three weeks. Just three weeks. I'll take care of everything.\"",
+     "start": 1448.3324630000054,
+     "end": 1457.3821910000054
+    },
+    {
+     "text": "\"How are you going to take care of anything?\"",
+     "start": 1457.8321910000054,
+     "end": 1460.4615110000054
+    },
+    {
+     "text": "\"Your daughter is smarter than you think. Do you trust me?\"",
+     "start": 1460.9115110000055,
+     "end": 1465.0146180000054
+    },
+    {
+     "text": "He looked at me for a long moment. Then, slowly, he nodded.",
+     "start": 1465.4646180000054,
+     "end": 1469.5668400000054
+    }
+   ],
+   "end": 1470.4668400000055
+  },
+  {
+   "id": "S13B",
+   "title": "Mom's Ring",
+   "stage": "goguma",
+   "bg": "rain_window",
+   "start": 1470.4668400000055,
+   "paras": [
+    {
+     "text": "A few days later, I noticed the drawer in Dad's bedroom was open. The drawer he always kept locked.",
+     "start": 1470.4668400000055,
+     "end": 1478.0433030000056
+    },
+    {
+     "text": "The little velvet box was gone. The box with my mother's wedding ring.",
+     "start": 1478.4933030000057,
+     "end": 1483.2807410000057
+    },
+    {
+     "text": "I ran through town like a crazy person. And I found him, at the end of Main Street, standing in front of the pawn shop. He was holding the box, staring at the glass door, not moving.",
+     "start": 1483.7307410000058,
+     "end": 1496.1952990000057
+    },
+    {
+     "text": "\"Dad!\"",
+     "start": 1496.6452990000057,
+     "end": 1497.6953900000058
+    },
+    {
+     "text": "He turned around, startled. His eyes were red.",
+     "start": 1498.1453900000058,
+     "end": 1501.9330540000058
+    },
+    {
+     "text": "\"Gracie. This will get a few thousand. Your mom would understand. It's for her little girl's wedding.\"",
+     "start": 1502.3830540000058,
+     "end": 1509.0635080000059
+    },
+    {
+     "text": "\"Dad, that's the only thing Mom left you. Please. Please don't.\"",
+     "start": 1509.513508000006,
+     "end": 1514.457431000006
+    },
+    {
+     "text": "I threw my arms around him right there on the sidewalk. It started to rain. My father buried his face in my shoulder and, for the first time in my life, I heard him cry out loud.",
+     "start": 1514.907431000006,
+     "end": 1527.114710000006
+    },
+    {
+     "text": "\"I'm such a failure, Gracie. This is all I have to give you.\"",
+     "start": 1527.564710000006,
+     "end": 1531.772919000006
+    },
+    {
+     "text": "That day, I decided. I would end this before the wedding. No matter what.",
+     "start": 1532.222919000006,
+     "end": 1538.5359580000058
+    }
+   ],
+   "end": 1539.435958000006
+  },
+  {
+   "id": "S14",
+   "title": "The Signing",
+   "stage": "goguma",
+   "bg": "office_document",
+   "start": 1539.435958000006,
+   "paras": [
+    {
+     "text": "Two weeks before the wedding, the day I remembered finally came.",
+     "start": 1539.435958000006,
+     "end": 1543.801015000006
+    },
+    {
+     "text": "Diane asked me to meet her at an upscale café downtown. Sitting next to her was a man in a leather jacket with a gold watch. Gary Pruitt.",
+     "start": 1544.251015000006,
+     "end": 1553.248249000006
+    },
+    {
+     "text": "\"Grace, say hello. Gary helps our family with business matters.\"",
+     "start": 1553.698249000006,
+     "end": 1558.0111510000058
+    },
+    {
+     "text": "Gary slid a folder across the table.",
+     "start": 1558.4611510000059,
+     "end": 1561.5124440000059
+    },
+    {
+     "text": "\"Simple stuff. The family needs a little short-term capital. You sign, and in three months everything's back to normal.\"",
+     "start": 1561.962444000006,
+     "end": 1570.118408000006
+    },
+    {
+     "text": "The document was titled \"Commercial Mortgage and Security Agreement.\" Property: my building on Maple Street. Amount secured: two hundred forty thousand dollars.",
+     "start": 1570.568408000006,
+     "end": 1581.513261000006
+    },
+    {
+     "text": "In my first life, I didn't read a single line. Diane said, \"Family doesn't need to read the fine print,\" and I believed her.",
+     "start": 1581.963261000006,
+     "end": 1590.589973000006
+    },
+    {
+     "text": "This time, I read it slowly. Line by line. And my phone was already recording.",
+     "start": 1591.039973000006,
+     "end": 1597.247569000006
+    },
+    {
+     "text": "\"Diane, so this puts a mortgage on my building for two hundred forty thousand dollars?\"",
+     "start": 1597.697569000006,
+     "end": 1602.852784000006
+    },
+    {
+     "text": "\"Oh, don't be dramatic. It's just a temporary arrangement. Are you saying you don't trust your own mother-in-law?\"",
+     "start": 1603.302784000006,
+     "end": 1610.248453000006
+    },
+    {
+     "text": "\"Does Richard know about this?\"",
+     "start": 1610.698453000006,
+     "end": 1612.6931700000061
+    },
+    {
+     "text": "Her eyes went sharp.",
+     "start": 1613.1431700000062,
+     "end": 1614.7720590000063
+    },
+    {
+     "text": "\"Do not tell Richard. If he finds out, it will tear this family apart. This stays between us women. Understand? And if you don't sign, you can forget about this wedding.\"",
+     "start": 1615.2220590000063,
+     "end": 1626.9041910000062
+    },
+    {
+     "text": "I put the pen down.",
+     "start": 1627.3541910000063,
+     "end": 1628.8782050000063
+    },
+    {
+     "text": "\"Let me think about it for one day. It's my building. I have a few things to sort out.\"",
+     "start": 1629.3282050000064,
+     "end": 1635.7977970000063
+    },
+    {
+     "text": "Diane clicked her tongue. \"One day. Not a minute more.\"",
+     "start": 1636.2477970000064,
+     "end": 1640.6122870000063
+    }
+   ],
+   "end": 1641.5122870000064
+  },
+  {
+   "id": "S14B",
+   "title": "The Last Straw",
+   "stage": "goguma",
+   "bg": "paper_document",
+   "start": 1641.5122870000064,
+   "paras": [
+    {
+     "text": "As I was leaving, Diane called after me.",
+     "start": 1641.5122870000064,
+     "end": 1644.6149170000065
+    },
+    {
+     "text": "\"Oh, one more thing. I've put your father at the very last table at the reception. The front tables are for Richard's business partners. You understand.\"",
+     "start": 1645.0649170000065,
+     "end": 1655.1120830000066
+    },
+    {
+     "text": "I nodded.",
+     "start": 1655.5620830000066,
+     "end": 1656.6650310000066
+    },
+    {
+     "text": "\"And those wooden spoons. Don't even think about bringing them to the wedding. It would be humiliating.\"",
+     "start": 1657.1150310000066,
+     "end": 1663.2136020000066
+    },
+    {
+     "text": "She climbed into Gary's black sedan, and they drove off. I stood on the curb for a long time.",
+     "start": 1663.6636020000067,
+     "end": 1670.1324460000067
+    },
+    {
+     "text": "I now had eleven recordings. The county records. A photo of Gary's card. Pictures of the mortgage papers. Every piece of the puzzle was in my hands.",
+     "start": 1670.5824460000067,
+     "end": 1681.6842830000066
+    },
+    {
+     "text": "There was only one thing left. To hand those pieces to the right person, at exactly the right moment.",
+     "start": 1682.1342830000067,
+     "end": 1688.7632630000066
+    }
+   ],
+   "end": 1689.6632630000067
+  },
+  {
+   "id": "S14C",
+   "title": "At Mom's Grave",
+   "stage": "goguma",
+   "bg": "sunset_sky",
+   "start": 1689.6632630000067,
+   "paras": [
+    {
+     "text": "From the café, I drove straight to the cemetery where my mother is buried.",
+     "start": 1689.6632630000067,
+     "end": 1694.0824010000067
+    },
+    {
+     "text": "The sun was going down. The little garden around her headstone was bright with marigolds my father had planted in the spring.",
+     "start": 1694.5324010000068,
+     "end": 1702.0574800000068
+    },
+    {
+     "text": "\"Mom, I'm so scared. In my first life, I couldn't protect Dad. What if I fail again?\"",
+     "start": 1702.5074800000068,
+     "end": 1708.868795000007
+    },
+    {
+     "text": "Of course, there was no answer. But I remembered an old photo from my childhood. Me on my father's lap, his big rough hands covered in sawdust. With those hands, he had never done a single dishonest thing in his life.",
+     "start": 1709.318795000007,
+     "end": 1725.842242000007
+    },
+    {
+     "text": "\"Mom, I'm not going to just keep quiet this time. I'm going to fight. But I'm going to fight smart. This time, I'll protect Dad's hands.\"",
+     "start": 1726.292242000007,
+     "end": 1736.2894080000071
+    },
+    {
+     "text": "As I walked back to my car, my phone buzzed. It was Diane.",
+     "start": 1736.7394080000072,
+     "end": 1741.2069820000072
+    }
+   ],
+   "end": 1742.1069820000073
+  },
+  {
+   "id": "S15",
+   "title": "The Text Message",
+   "stage": "turning",
+   "bg": "night_city_lights",
+   "start": 1742.1069820000073,
+   "paras": [
+    {
+     "text": "It was a text message.",
+     "start": 1742.1069820000073,
+     "end": 1743.9991820000073
+    },
+    {
+     "text": "\"If I don't have your signature by ten a.m. tomorrow, your father will never set foot in this family's house again. Who does a carpenter think he is?\"",
+     "start": 1744.4491820000073,
+     "end": 1753.1302020000073
+    },
+    {
+     "text": "As I read it, something inside me went very quiet. And then it snapped. That message trampled on the last of my father's dignity. And while I sat in my car, Diane was posting pictures from a wine bar with her friends, a glass raised in a toast.",
+     "start": 1753.5802020000074,
+     "end": 1770.7887730000073
+    },
+    {
+     "text": "I picked up my phone. And I dialed a number I had saved just once, when we were planning the wedding.",
+     "start": 1771.2387730000073,
+     "end": 1778.0770270000073
+    },
+    {
+     "text": "Richard Whitmore.",
+     "start": 1778.5270270000074,
+     "end": 1780.1568230000073
+    },
+    {
+     "text": "It rang three times. Then a deep, calm voice answered.",
+     "start": 1780.6068230000074,
+     "end": 1784.9187730000074
+    },
+    {
+     "text": "\"Grace? It's late. What's wrong?\"",
+     "start": 1785.3687730000074,
+     "end": 1788.2087280000073
+    },
+    {
+     "text": "\"Richard, I'm so sorry to call at this hour. There's something I have to show you. I need to see you in person.\"",
+     "start": 1788.6587280000074,
+     "end": 1795.3921290000073
+    },
+    {
+     "text": "There was a long pause. Then he said,",
+     "start": 1795.8421290000074,
+     "end": 1798.4186370000075
+    },
+    {
+     "text": "\"Seven tomorrow morning. The diner on Route Nine, by my office. And bring your father.\"",
+     "start": 1798.8686370000075,
+     "end": 1805.3923330000075
+    }
+   ],
+   "end": 1806.2923330000076
+  },
+  {
+   "id": "S16",
+   "title": "The Diner",
+   "stage": "turning",
+   "bg": "morning_window",
+   "start": 1806.2923330000076,
+   "paras": [
+    {
+     "text": "At seven the next morning, my father and I walked into a little roadside diner. It was not the kind of place you'd expect to find a man who owned half the buildings in the county.",
+     "start": 1806.2923330000076,
+     "end": 1815.3933530000077
+    },
+    {
+     "text": "Richard was already there, in a canvas work jacket. When he saw my father, he stood up and shook his hand with both of his.",
+     "start": 1815.8433530000077,
+     "end": 1823.3678650000077
+    },
+    {
+     "text": "\"Tom. At that dinner, I didn't even offer you a chair. I'm ashamed of myself. Please, sit down.\"",
+     "start": 1823.8178650000077,
+     "end": 1830.2837610000076
+    },
+    {
+     "text": "My father didn't know what to say.",
+     "start": 1830.7337610000077,
+     "end": 1833.3639200000077
+    },
+    {
+     "text": "I laid everything out on the table. The recording from the country club. The photo of Gary's card. The recording from the café. Pictures of the mortgage papers. And last night's text message.",
+     "start": 1833.8139200000078,
+     "end": 1846.2300650000077
+    },
+    {
+     "text": "Richard listened to every recording, all the way through. When he took out the earbuds, he said nothing for a long time. His coffee went cold.",
+     "start": 1846.6800650000077,
+     "end": 1855.7822420000077
+    },
+    {
+     "text": "\"Two hundred thousand, you said.\"",
+     "start": 1856.2322420000078,
+     "end": 1858.3337610000078
+    },
+    {
+     "text": "\"Yes, sir. Summit Capital Partners.\"",
+     "start": 1858.7837610000079,
+     "end": 1861.306210000008
+    },
+    {
+     "text": "He let out a long breath.",
+     "start": 1861.756210000008,
+     "end": 1863.859566000008
+    },
+    {
+     "text": "\"I knew something was wrong. She kept asking about the limits on the company credit cards. She was looking for the deed to the house. I pretended not to notice. That was my mistake. Grace, did you put all of this together by yourself?\"",
+     "start": 1864.309566000008,
+     "end": 1878.200700000008
+    },
+    {
+     "text": "\"Yes, sir.\"",
+     "start": 1878.650700000008,
+     "end": 1879.911743000008
+    },
+    {
+     "text": "Richard turned to my father.",
+     "start": 1880.3617430000081,
+     "end": 1882.5662780000082
+    },
+    {
+     "text": "\"Tom, you raised a remarkable daughter. If not for her, I would have found out after it was all gone.\"",
+     "start": 1883.0162780000082,
+     "end": 1889.1725140000083
+    },
+    {
+     "text": "Then he took out his phone and made a call.",
+     "start": 1889.6225140000083,
+     "end": 1892.2510630000083
+    },
+    {
+     "text": "\"Jim. It's Richard. I need you this morning. And tonight, I want the whole family at the house. The Millers are coming too.\"",
+     "start": 1892.7010630000084,
+     "end": 1901.1711540000083
+    },
+    {
+     "text": "Every piece of the puzzle was falling into place.",
+     "start": 1901.6211540000083,
+     "end": 1904.6709730000084
+    }
+   ],
+   "end": 1905.5709730000085
+  },
+  {
+   "id": "S16B",
+   "title": "Two Fathers",
+   "stage": "turning",
+   "bg": "wood_workshop",
+   "start": 1905.5709730000085,
+   "paras": [
+    {
+     "text": "In the parking lot, Richard took my father's hand again. He looked down at it for a long time. Calluses, little scars, sawdust ground deep into the lines.",
+     "start": 1905.5709730000085,
+     "end": 1915.3588190000085
+    },
+    {
+     "text": "\"Tom, those are good hands. Honest hands.\"",
+     "start": 1915.8088190000085,
+     "end": 1918.5940800000085
+    },
+    {
+     "text": "My father, embarrassed, tried to pull away. Richard didn't let go.",
+     "start": 1919.0440800000085,
+     "end": 1923.6181390000086
+    },
+    {
+     "text": "\"Until tonight, act like nothing has happened. Not to Diane, not to the kids. I'll take care of it.\"",
+     "start": 1924.0681390000086,
+     "end": 1929.9075270000087
+    },
+    {
+     "text": "Then he looked at me.",
+     "start": 1930.3575270000088,
+     "end": 1931.9872550000086
+    },
+    {
+     "text": "\"Grace. Tonight, pretend you're bringing the signed papers. If she thinks she's won, she'll say everything out loud, in her own words.\"",
+     "start": 1932.4372550000087,
+     "end": 1940.9085250000087
+    },
+    {
+     "text": "I nodded. He had been married to her for almost forty years. Nobody knew her better.",
+     "start": 1941.3585250000087,
+     "end": 1947.4605880000088
+    }
+   ],
+   "end": 1948.3605880000089
+  },
+  {
+   "id": "S17",
+   "title": "The Moment",
+   "stage": "saida",
+   "bg": "family_dining",
+   "start": 1948.3605880000089,
+   "paras": [
+    {
+     "text": "That evening, the whole family gathered in the Whitmores' big living room. Diane, Ethan, Brittany, and my father and me.",
+     "start": 1948.3605880000089,
+     "end": 1956.5669830000088
+    },
+    {
+     "text": "Diane was in a wonderful mood. She thought I had come with the signed papers. She spread the same contribution list across the dining table again.",
+     "start": 1957.0169830000088,
+     "end": 1965.804421000009
+    },
+    {
+     "text": "\"Tom, so glad you could make it. Looks like Grace finally came to her senses. Now, let's finish talking about the contribution. Grace, you brought the papers, didn't you?\"",
+     "start": 1966.254421000009,
+     "end": 1976.7785480000089
+    },
+    {
+     "text": "Once again, there was no chair for my father. Diane had moved it out of the way on purpose.",
+     "start": 1977.228548000009,
+     "end": 1983.4892960000088
+    },
+    {
+     "text": "Then the study door opened. Richard walked out. Behind him came a man in a gray suit carrying a leather briefcase. Jim Lawson, the family's attorney.",
+     "start": 1983.9392960000089,
+     "end": 1993.830044000009
+    },
+    {
+     "text": "Without a word, Richard picked up a chair from the study and carried it over himself. He set it down right behind my father.",
+     "start": 1994.280044000009,
+     "end": 2002.119885000009
+    },
+    {
+     "text": "\"Tom, please sit down. Nobody in this house will ever make you stand again.\"",
+     "start": 2002.569885000009,
+     "end": 2007.300361000009
+    },
+    {
+     "text": "Diane's face froze. Richard picked up the list from the table. He looked straight at his wife, and in a low voice, he said,",
+     "start": 2007.750361000009,
+     "end": 2015.587821000009
+    },
+    {
+     "text": "\"Put that away, Diane. Before you embarrass yourself any further.\"",
+     "start": 2016.037821000009,
+     "end": 2020.192152000009
+    }
+   ],
+   "end": 2021.092152000009
+  },
+  {
+   "id": "S18",
+   "title": "The Truth",
+   "stage": "saida",
+   "bg": "bright_living_room",
+   "start": 2021.092152000009,
+   "paras": [
+    {
+     "text": "The room went completely silent.",
+     "start": 2021.092152000009,
+     "end": 2023.510247000009
+    },
+    {
+     "text": "\"Richard, what are you doing? This is all for Ethan's sake, for the family's reputation.\"",
+     "start": 2023.960247000009,
+     "end": 2029.010496000009
+    },
+    {
+     "text": "\"Reputation? Did you say reputation?\"",
+     "start": 2029.460496000009,
+     "end": 2032.459181000009
+    },
+    {
+     "text": "Richard nodded to Jim. One by one, Jim laid the documents on the table. A copy of the loan agreement from Summit Capital. The mortgage papers. And a transcript of the recordings.",
+     "start": 2032.909181000009,
+     "end": 2044.167503000009
+    },
+    {
+     "text": "\"Two hundred thousand dollars you borrowed behind my back. And to pay it off, you tried to put a lien on a building that belongs to a girl who isn't even married into this family yet. The fifty thousand you demanded from Tom, that was to plug the same hole, wasn't it?\"",
+     "start": 2044.617503000009,
+     "end": 2060.826483000009
+    },
+    {
+     "text": "The color drained from Diane's face.",
+     "start": 2061.2764830000087,
+     "end": 2063.9559390000086
+    },
+    {
+     "text": "\"It's, it's a misunderstanding. Richard, please, just this once. Gary said my money would double in three months.\"",
+     "start": 2064.4059390000084,
+     "end": 2071.718343000008
+    },
+    {
+     "text": "\"Gary Pruitt had a fraud complaint filed against him this afternoon. You're not his only victim. There are seven others. You didn't invest, Diane. You were swindled. And you nearly handed that swindler another family's daughter's livelihood.\"",
+     "start": 2072.168343000008,
+     "end": 2087.743672000008
+    },
+    {
+     "text": "Diane sank down onto the sofa. Her pearls trembled.",
+     "start": 2088.1936720000076,
+     "end": 2092.2441030000077
+    },
+    {
+     "text": "\"And the text you sent Grace last night. 'Who does a carpenter think he is.' Do you know how many times I read that?\"",
+     "start": 2092.6941030000075,
+     "end": 2099.7927880000075
+    },
+    {
+     "text": "For the first time, Richard's voice shook.",
+     "start": 2100.2427880000073,
+     "end": 2103.3981620000072
+    },
+    {
+     "text": "\"My father was a carpenter, Diane. I started swinging a hammer when I was seventeen. This house, this company, all of it started with one hammer. I guess you forgot that.\"",
+     "start": 2103.848162000007,
+     "end": 2114.214715000007
+    }
+   ],
+   "end": 2115.114715000007
+  },
+  {
+   "id": "S18B",
+   "title": "The Accomplice",
+   "stage": "saida",
+   "bg": "bright_living_room",
+   "start": 2115.114715000007,
+   "paras": [
+    {
+     "text": "Jim took out one more sheet of paper.",
+     "start": 2115.114715000007,
+     "end": 2117.586733000007
+    },
+    {
+     "text": "\"Mrs. Whitmore, someone introduced you to Mr. Pruitt. Your friend, Linda Hayes. Mrs. Hayes received a ten thousand dollar referral fee from him.\"",
+     "start": 2118.0367330000067,
+     "end": 2128.0847600000066
+    },
+    {
+     "text": "Diane's head snapped up.",
+     "start": 2128.5347600000064,
+     "end": 2130.4793860000063
+    },
+    {
+     "text": "\"Linda? That's impossible. We've been friends for thirty years.\"",
+     "start": 2130.929386000006,
+     "end": 2135.1902480000062
+    },
+    {
+     "text": "\"She's one of the ladies you brought to my bakery,\" I added quietly. \"The one who talked the loudest.\"",
+     "start": 2135.640248000006,
+     "end": 2141.742992000006
+    },
+    {
+     "text": "Diane went white. The friend she trusted most had seen her as prey from the very beginning.",
+     "start": 2142.1929920000057,
+     "end": 2149.032198000006
+    },
+    {
+     "text": "Brittany put down her phone and said in a small voice, \"Mom, Aunt Linda pitched that investment to me too. I thought it was fine because you were in on it.\"",
+     "start": 2149.4821980000056,
+     "end": 2159.006892000006
+    },
+    {
+     "text": "The only sound in the room was Diane's ragged breathing. The mouth that had been so quick to tear other people down had nothing left to say.",
+     "start": 2159.4568920000056,
+     "end": 2167.717436000006
+    }
+   ],
+   "end": 2168.617436000006
+  },
+  {
+   "id": "S19",
+   "title": "Justice",
+   "stage": "saida",
+   "bg": "sunlight_hall",
+   "start": 2168.617436000006,
+   "paras": [
+    {
+     "text": "Right there, Richard made three decisions.",
+     "start": 2168.617436000006,
+     "end": 2171.561880000006
+    },
+    {
+     "text": "First, there would be no contribution from the bride's family. No cash, no fur coat, no designer bags. Nothing.",
+     "start": 2172.011880000006,
+     "end": 2180.109363000006
+    },
+    {
+     "text": "Second, the two hundred thousand dollar debt would be paid by selling Diane's lake house and her jewelry. Not one cent would come from the company. And from now on, Richard would manage the household accounts himself.",
+     "start": 2180.5593630000058,
+     "end": 2194.3442380000056
+    },
+    {
+     "text": "Third, Diane would apologize to my father. Sincerely. Right now.",
+     "start": 2194.7942380000054,
+     "end": 2199.6339890000054
+    },
+    {
+     "text": "Diane trembled for a long time. Then she slowly walked over to my father. And she got down on her knees.",
+     "start": 2200.083989000005,
+     "end": 2208.182084000005
+    },
+    {
+     "text": "\"Tom, I, I was wrong. I am truly sorry.\"",
+     "start": 2208.632084000005,
+     "end": 2213.155304000005
+    },
+    {
+     "text": "My father, flustered, helped her back to her feet.",
+     "start": 2213.6053040000047,
+     "end": 2217.0239210000045
+    },
+    {
+     "text": "\"Please, ma'am, get up. I'm fine. All I want is for the kids to be happy.\"",
+     "start": 2217.4739210000043,
+     "end": 2221.945576000004
+    }
+   ],
+   "end": 2222.8455760000043
+  },
+  {
+   "id": "S19B",
+   "title": "Ethan's Choice",
+   "stage": "saida",
+   "bg": "sunlight_hall",
+   "start": 2222.8455760000043,
+   "paras": [
+    {
+     "text": "Then Ethan stepped forward, and he stood in front of his mother.",
+     "start": 2222.8455760000043,
+     "end": 2227.264420000004
+    },
+    {
+     "text": "\"Mom, at that dinner, I didn't say a word. Not even when Tom was on the floor picking up those spoons. I'm going to be ashamed of that for the rest of my life.\"",
+     "start": 2227.714420000004,
+     "end": 2238.0787740000037
+    },
+    {
+     "text": "\"Ethan, honey, I only wanted what's best for you.\"",
+     "start": 2238.5287740000035,
+     "end": 2241.9477990000037
+    },
+    {
+     "text": "\"No, Mom. You wanted what's best for your image. Grace never asked for anything. We were the ones trying to take her bakery.\"",
+     "start": 2242.3977990000035,
+     "end": 2249.9226740000036
+    },
+    {
+     "text": "Diane looked at her son for a long moment. Then she lowered her eyes.",
+     "start": 2250.3726740000034,
+     "end": 2255.0005650000035
+    },
+    {
+     "text": "Ethan turned to my father and bowed his head.",
+     "start": 2255.4505650000033,
+     "end": 2258.3426060000033
+    },
+    {
+     "text": "\"Tom, on the wedding day, please walk Grace down the aisle. In that suit. I think it's the best-looking suit in the world.\"",
+     "start": 2258.792606000003,
+     "end": 2265.632334000003
+    },
+    {
+     "text": "My father couldn't speak. He just patted Ethan twice on the shoulder.",
+     "start": 2266.082334000003,
+     "end": 2271.449069000003
+    }
+   ],
+   "end": 2272.349069000003
+  },
+  {
+   "id": "S19C",
+   "title": "The Next Morning",
+   "stage": "saida",
+   "bg": "morning_window",
+   "start": 2272.349069000003,
+   "paras": [
+    {
+     "text": "The next morning, it was in the local news.",
+     "start": 2272.349069000003,
+     "end": 2275.400067000003
+    },
+    {
+     "text": "\"Investment advisor arrested in scheme targeting eight local women.\"",
+     "start": 2275.850067000003,
+     "end": 2280.320838000003
+    },
+    {
+     "text": "The doors of Summit Capital Partners were sealed by federal agents. Gary Pruitt was arrested at the airport, trying to board a flight to Miami. Linda Hayes was charged as an accomplice.",
+     "start": 2280.7708380000026,
+     "end": 2291.7163940000028
+    },
+    {
+     "text": "That afternoon, Diane tried to return her new fur coat to the department store. They told her it had already been worn and couldn't be returned. She stood outside the store for a long time. A week later, the coat showed up on an online marketplace at half price.",
+     "start": 2292.1663940000026,
+     "end": 2306.3188200000027
+    },
+    {
+     "text": "At Diane's country club luncheon, everyone was whispering. She had tried to take a young woman's bakery and had disgraced her whole family. The reputation she had guarded so fiercely fell to the floor overnight.",
+     "start": 2306.7688200000025,
+     "end": 2320.8187070000026
+    },
+    {
+     "text": "The woman who loved to cut other people down had finally cut herself.",
+     "start": 2321.2687070000025,
+     "end": 2325.7845570000027
+    }
+   ],
+   "end": 2326.6845570000028
+  },
+  {
+   "id": "S20B",
+   "title": "Dad's Hand",
+   "stage": "ending",
+   "bg": "wedding_garden",
+   "start": 2326.6845570000028,
+   "paras": [
+    {
+     "text": "On my wedding day, the sky was perfectly clear. Then it was time for me to walk down the aisle.",
+     "start": 2326.6845570000028,
+     "end": 2332.364262000003
+    },
+    {
+     "text": "The doors opened, and I took my father's arm. He was wearing his suit. That suit. But on the cuffs there were new gold buttons, a gift Richard had quietly had made for him.",
+     "start": 2332.8142620000026,
+     "end": 2343.8086160000025
+    },
+    {
+     "text": "One step. Then another. My father's hand was trembling a little. I held on tight.",
+     "start": 2344.2586160000023,
+     "end": 2350.569591000002
+    },
+    {
+     "text": "\"Slow down, Dad. We've been waiting for this day our whole lives.\"",
+     "start": 2351.019591000002,
+     "end": 2355.541768000002
+    },
+    {
+     "text": "He smiled. I will never forget that smile as long as I live.",
+     "start": 2355.9917680000017,
+     "end": 2360.2004980000015
+    },
+    {
+     "text": "In the very front row sat Mrs. Patterson and our neighbors from Maple Street. Richard had invited them himself. Not the last table. The front row.",
+     "start": 2360.6504980000013,
+     "end": 2369.9616540000015
+    }
+   ],
+   "end": 2370.8616540000016
+  },
+  {
+   "id": "S20",
+   "title": "The Reception",
+   "stage": "ending",
+   "bg": "wedding_garden",
+   "start": 2370.8616540000016,
+   "paras": [
+    {
+     "text": "At the reception, there was a small wooden box at every guest's place. Inside each box was a walnut spoon carved by my father. Richard had ordered them as wedding favors. Two hundred of them. And he paid full price.",
+     "start": 2370.8616540000016,
+     "end": 2387.0690690000015
+    },
+    {
+     "text": "In his toast, Richard said, \"Today I'm not only gaining a daughter-in-law. I'm gaining a friend I will respect for the rest of my life.\"",
+     "start": 2387.5190690000013,
+     "end": 2395.935600000001
+    },
+    {
+     "text": "Then he picked up one of my father's spoons and ate his soup with it. And he enjoyed every bite.",
+     "start": 2396.385600000001,
+     "end": 2403.856802000001
+    },
+    {
+     "text": "Diane sat quietly among the guests, her eyes down. No lake house. No fur coat. Her friends from the club had stopped calling. The pain she had caused others had come right back home to her.",
+     "start": 2404.306802000001,
+     "end": 2416.356621000001
+    }
+   ],
+   "end": 2417.256621000001
+  },
+  {
+   "id": "S21",
+   "title": "After",
+   "stage": "ending",
+   "bg": "bakery_sunlight",
+   "start": 2417.256621000001,
+   "paras": [
+    {
+     "text": "Let me tell you what happened after that.",
+     "start": 2417.256621000001,
+     "end": 2420.464943000001
+    },
+    {
+     "text": "My father's workshop is still standing at the end of our road. These days, he's building the chairs and tables for a new senior living center that Richard's company is putting up. He has taken on two young apprentices. And his cough is much better.",
+     "start": 2420.9149430000007,
+     "end": 2433.8583670000007
+    },
+    {
+     "text": "My father's wooden trays are back in my display case. Diane comes to the bakery once a month. It was awkward at first. But now she buys two cinnamon rolls every time. People don't change easily. But a person who learns to feel ashamed can change, little by little.",
+     "start": 2434.3083670000005,
+     "end": 2450.7277770000005
+    },
+    {
+     "text": "In my first life, all I knew how to do was endure. In my second life, I learned that enduring and protecting are not the same thing. If you want to protect the people you love, you have to prepare. Quietly, but firmly.",
+     "start": 2451.1777770000003,
+     "end": 2464.5434910000004
+    }
+   ],
+   "end": 2465.4434910000004
+  },
+  {
+   "id": "S21B",
+   "title": "One Set of Spoons",
+   "stage": "ending",
+   "bg": "bakery_sunlight",
+   "start": 2465.4434910000004,
+   "paras": [
+    {
+     "text": "A year after the wedding, Diane came into the bakery holding a small cloth bundle.",
+     "start": 2465.4434910000004,
+     "end": 2470.9650330000004
+    },
+    {
+     "text": "\"Grace. Do you remember this?\"",
+     "start": 2471.415033,
+     "end": 2473.6204070000003
+    },
+    {
+     "text": "Inside was one walnut spoon. The very spoon that had fallen on the floor of the country club. My father had picked it up, and later he quietly mailed it back to her.",
+     "start": 2474.070407,
+     "end": 2486.1177770000004
+    },
+    {
+     "text": "\"I've eaten with this spoon every day for a year. At first, I was so ashamed I hid it in a drawer. But it's strange. Food tastes warmer when I eat with it.\"",
+     "start": 2486.567777,
+     "end": 2496.511723
+    },
+    {
+     "text": "Her eyes filled with tears.",
+     "start": 2496.961723,
+     "end": 2499.905011
+    },
+    {
+     "text": "\"Would you ask your father something for me? Could he carve one more set? I'd like to give it to our grandchild someday. And I'll pay him properly.\"",
+     "start": 2500.3550109999996,
+     "end": 2509.8789789999996
+    },
+    {
+     "text": "I smiled.",
+     "start": 2510.3289789999994,
+     "end": 2511.5900219999994
+    },
+    {
+     "text": "\"Diane, Dad won't take your money. But he'll probably ask you to come over for dinner.\"",
+     "start": 2512.040021999999,
+     "end": 2517.037889999999
+    },
+    {
+     "text": "That evening, both our families sat down together in my father's workshop and shared a big pot of chili. Every one of us, eating with wooden spoons.",
+     "start": 2517.487889999999,
+     "end": 2527.116982999999
+    }
+   ],
+   "end": 2528.016982999999
+  },
+  {
+   "id": "S22",
+   "title": "Goodbye for Now",
+   "stage": "ending",
+   "bg": "sunset_sky",
+   "start": 2528.016982999999,
+   "paras": [
+    {
+     "text": "So, friends, what did you think of today's story?",
+     "start": 2528.016982999999,
+     "end": 2531.6981619999992
+    },
+    {
+     "text": "Love is not measured in dollars. It's measured in three months of evenings at a workbench. It's measured in a father ready to sell everything he had, just so his daughter could walk in with her head held high.",
+     "start": 2532.148161999999,
+     "end": 2546.092696999999
+    },
+    {
+     "text": "People who look down on others always pay the price in the end. And people who live honestly and quietly will, someday, meet someone who sees their true worth.",
+     "start": 2546.542696999999,
+     "end": 2556.487594999999
+    },
+    {
+     "text": "If you've lived through something like this, please share your story in the comments. Your story might be exactly what someone else needs to hear.",
+     "start": 2556.937594999999,
+     "end": 2565.3035809999988
+    },
+    {
+     "text": "If you enjoyed this, please subscribe and tap the like button. It means the world to us here at Life Story. Until next time, take care of yourselves, and of each other.",
+     "start": 2565.7535809999986,
+     "end": 2575.7499529999986
+    }
+   ],
+   "end": 2576.6499529999987
+  }
+ ]
+}

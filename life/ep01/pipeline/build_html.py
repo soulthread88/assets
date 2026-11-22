@@ -44,6 +44,7 @@ def cues_from(tl, lang):
 
 
 def thumb_html(kind, g, t):
+    qo, qc = t.get("q", ("“", "”"))
     W, H = g["W"], g["H"]
     land = W > H
     u = W / 3840 if land else W / 2160
@@ -53,8 +54,8 @@ def thumb_html(kind, g, t):
     if land:
         parts += [f'<div class="th-badge" style="left:{px(200)};top:{px(170)};font-size:{px(118)}">{t["badge"]}</div>',
                   f'<div class="th-big" style="left:{px(200)};top:{px(400)};font-size:{px(330)}">{t["big1"]}<br><b>{t["big2"]}</b></div>',
-                  f'<div class="th-q villain" style="left:{px(200)};bottom:{px(200)};font-size:{px(96)};max-width:{px(1700)}"><small>{t["vlabel"]}</small>“{t["villain"]}”</div>',
-                  f'<div class="th-q hero" style="right:{px(200)};bottom:{px(200)};font-size:{px(104)};max-width:{px(1600)}"><small>{t["hlabel"]}</small>“{t["hero"]}”</div>',
+                  f'<div class="th-q villain" style="left:{px(200)};bottom:{px(200)};font-size:{px(96)};max-width:{px(1700)}"><small>{t["vlabel"]}</small>{qo}{t["villain"]}{qc}</div>',
+                  f'<div class="th-q hero" style="right:{px(200)};bottom:{px(200)};font-size:{px(104)};max-width:{px(1600)}"><small>{t["hlabel"]}</small>{qo}{t["hero"]}{qc}</div>',
                   f'<div class="th-tag" style="right:{px(200)};top:{px(170)};font-size:{px(72)}">{t["tag"]}</div>']
     else:
         top = 300 if kind == "shorts" else 160
@@ -64,8 +65,8 @@ def thumb_html(kind, g, t):
                   f'<div class="th-tag" style="position:static;font-size:{px(70)}">{t["tag"]}</div>'
                   f'<div class="th-badge" style="position:static;font-size:{px(112)}">{t["badge"]}</div>'
                   f'<div class="th-big" style="position:static;font-size:{px(big)}">{t["big1"]}<br><b>{t["big2"]}</b></div>'
-                  f'<div class="th-q villain" style="position:static;font-size:{px(96)};max-width:{px(1700)}"><small>{t["vlabel"]}</small>“{t["villain"]}”</div>'
-                  f'<div class="th-q hero" style="position:static;align-self:flex-end;font-size:{px(104)};max-width:{px(1750)}"><small>{t["hlabel"]}</small>“{t["hero"]}”</div></div>']
+                  f'<div class="th-q villain" style="position:static;font-size:{px(96)};max-width:{px(1700)}"><small>{t["vlabel"]}</small>{qo}{t["villain"]}{qc}</div>'
+                  f'<div class="th-q hero" style="position:static;align-self:flex-end;font-size:{px(104)};max-width:{px(1750)}"><small>{t["hlabel"]}</small>{qo}{t["hero"]}{qc}</div></div>']
     return "\n".join(parts)
 
 

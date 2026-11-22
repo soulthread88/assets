@@ -1,0 +1,216 @@
+{
+ "lang": "en",
+ "duration": 261.21467300000006,
+ "scenes": [
+  {
+   "id": "F01",
+   "title": "Hook",
+   "stage": "hook",
+   "bg": "wedding_ring",
+   "start": 0.4,
+   "paras": [
+    {
+     "text": "What would you do if your future in-laws demanded fifty thousand dollars from your family, while your father was left standing at the table? Today's story is about a daughter who turned that night upside down.",
+     "start": 0.4,
+     "end": 12.848889
+    }
+   ],
+   "end": 13.748889
+  },
+  {
+   "id": "F02",
+   "title": "The Dinner",
+   "stage": "goguma",
+   "bg": "fine_dining",
+   "start": 13.748889,
+   "paras": [
+    {
+     "text": "The Ridgewood Country Club. My father, a carpenter, wore the one suit he owns, the sleeves a little short. In the parking lot, my future mother-in-law asked him to move his old work truck next to the dumpsters. Inside, she never offered him a chair. Then she handed over a typed list. Bride's family contribution, fifty thousand. Flowers, six thousand. A fur coat for her. Nothing but numbers.",
+     "start": 13.748889,
+     "end": 38.344762
+    }
+   ],
+   "end": 39.244762
+  },
+  {
+   "id": "F03",
+   "title": "The Spoons",
+   "stage": "goguma",
+   "bg": "wood_workshop",
+   "start": 39.244762,
+   "paras": [
+    {
+     "text": "Dad brought walnut serving spoons he had carved over three months of evenings. She laughed. \"Love is measured in dollars, dear.\" The spoon rolled off the table, and Dad knelt to pick it up. My fiancé stared at his plate. My future father-in-law looked out the window. But under the table, I saw his fist, clenched white.",
+     "start": 39.244762,
+     "end": 58.2922
+    }
+   ],
+   "end": 59.1922
+  },
+  {
+   "id": "F03B",
+   "title": "The Drive Home",
+   "stage": "goguma",
+   "bg": "night_street",
+   "start": 59.1922,
+   "paras": [
+    {
+     "text": "I wanted to flip that table. But a scene would only get me called ungrateful. I needed proof. On the drive home, Dad held the spoons on his lap and finally said, \"Watching them look down on you because of me, that's the worst part.\" That night, the light in his workshop stayed on until two.",
+     "start": 59.1922,
+     "end": 76.98957
+    }
+   ],
+   "end": 77.88957
+  },
+  {
+   "id": "F04",
+   "title": "The First Life",
+   "stage": "goguma",
+   "bg": "rain_window",
+   "start": 77.88957,
+   "paras": [
+    {
+     "text": "Here's my secret. I was living that night for the second time. In my first life, I kept the peace. I signed papers I never read, and my bakery became collateral for her secret two hundred thousand dollar loan. When the collectors came, my father collapsed in front of my shop. And then I woke up, one year earlier.",
+     "start": 77.88957,
+     "end": 98.93669
+    }
+   ],
+   "end": 99.83669
+  },
+  {
+   "id": "F04B",
+   "title": "Morning",
+   "stage": "goguma",
+   "bg": "morning_light",
+   "start": 99.83669,
+   "paras": [
+    {
+     "text": "I heard Dad coughing in the kitchen, and the sound of sandpaper on wood. I ran in barefoot and hugged him like a little girl. \"Getting cold feet about leaving your old man, huh?\" This time, I promised myself, I would not lose him.",
+     "start": 99.83669,
+     "end": 113.53410500000001
+    }
+   ],
+   "end": 114.43410500000002
+  },
+  {
+   "id": "F05",
+   "title": "Proof",
+   "stage": "goguma",
+   "bg": "notebook_desk",
+   "start": 114.43410500000002,
+   "paras": [
+    {
+     "text": "I recorded everything. I photographed the so-called broker's business card. I signed up for the county's property fraud alert. Two weeks before the wedding, she pushed a mortgage on my building across the table. \"Do not tell Richard. Sign, or forget this wedding.\" That night she texted, \"Who does a carpenter think he is?\"",
+     "start": 114.43410500000002,
+     "end": 132.931225
+    }
+   ],
+   "end": 133.83122500000002
+  },
+  {
+   "id": "F05B",
+   "title": "The Workshop",
+   "stage": "goguma",
+   "bg": "wood_workshop",
+   "start": 133.83122500000002,
+   "paras": [
+    {
+     "text": "She had already mocked Dad's workshop and cut his name from the invitations. Then Dad said he would sell the workshop to raise the money. In my first life, he did, and he faded away. I took his hands. \"Dad, give me three weeks. Just trust me.\"",
+     "start": 133.83122500000002,
+     "end": 149.629048
+    }
+   ],
+   "end": 150.52904800000002
+  },
+  {
+   "id": "F05C",
+   "title": "The Pawn Shop",
+   "stage": "goguma",
+   "bg": "rain_window",
+   "start": 150.52904800000002,
+   "paras": [
+    {
+     "text": "A few days later, my mother's ring was gone from Dad's drawer. I found him in the rain, outside the pawn shop on Main Street, holding the little velvet box. \"This will get a few thousand, Gracie. Your mom would understand.\" I held him right there on the sidewalk, and for the first time in my life, I heard my father cry out loud. That was the day I decided to end this before the wedding.",
+     "start": 150.52904800000002,
+     "end": 175.47641800000002
+    }
+   ],
+   "end": 176.37641800000003
+  },
+  {
+   "id": "F06",
+   "title": "The Diner",
+   "stage": "turning",
+   "bg": "morning_window",
+   "start": 176.37641800000003,
+   "paras": [
+    {
+     "text": "I called my future father-in-law. Seven a.m., a roadside diner. The man who owned half the buildings in the county stood up in a work jacket and shook my father's hand with both of his. \"Tom, I didn't even offer you a chair. I'm ashamed.\" He listened to every recording. Then he called his lawyer.",
+     "start": 176.37641800000003,
+     "end": 193.32523900000004
+    }
+   ],
+   "end": 194.22523900000004
+  },
+  {
+   "id": "F06B",
+   "title": "Too Late, Not This Time",
+   "stage": "turning",
+   "bg": "morning_window",
+   "start": 194.22523900000004,
+   "paras": [
+    {
+     "text": "\"I knew something was wrong,\" he said. \"She kept asking about the company cards. I pretended not to notice.\" In my first life, he was the one who told me at Dad's funeral, \"I found out too late.\" This time, he wasn't too late.",
+     "start": 194.22523900000004,
+     "end": 206.47301700000006
+    }
+   ],
+   "end": 207.37301700000006
+  },
+  {
+   "id": "F07",
+   "title": "The Chair",
+   "stage": "saida",
+   "bg": "bright_living_room",
+   "start": 207.37301700000006,
+   "paras": [
+    {
+     "text": "That night, she spread the list out again. Again, no chair for Dad. Richard carried a chair over himself and sat my father down. \"Put that away, Diane. Before you embarrass yourself any further.\" The lawyer laid out the loan, the mortgage, the recordings. The broker had seven other victims. She hadn't invested. She'd been swindled.",
+     "start": 207.37301700000006,
+     "end": 226.72045500000007
+    }
+   ],
+   "end": 227.62045500000008
+  },
+  {
+   "id": "F07B",
+   "title": "On Her Knees",
+   "stage": "saida",
+   "bg": "sunlight_hall",
+   "start": 227.62045500000008,
+   "paras": [
+    {
+     "text": "\"Richard, please, just this once.\" His voice shook. \"My father was a carpenter. This house started with one hammer.\" Then my fiancé finally stood beside me. \"Mom, Grace never asked for anything. We were the ones trying to take her bakery.\"",
+     "start": 227.62045500000008,
+     "end": 241.56807400000008
+    }
+   ],
+   "end": 242.4680740000001
+  },
+  {
+   "id": "F08",
+   "title": "The Ending",
+   "stage": "ending",
+   "bg": "wedding_garden",
+   "start": 242.4680740000001,
+   "paras": [
+    {
+     "text": "No contribution. Her lake house and jewelry paid her debt. She knelt and apologized to my father. On my wedding day, Dad walked me down the aisle in that same suit, and the favors were two hundred walnut spoons he carved. Love is not measured in dollars. Tell us in the comments: what would you have done?",
+     "start": 242.4680740000001,
+     "end": 260.3146730000001
+    }
+   ],
+   "end": 261.21467300000006
+  }
+ ]
+}
